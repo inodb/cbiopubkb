@@ -86,17 +86,27 @@ _Data types measured in the paper that are absent from cBioPortal (limits reprod
 - [ ] Functional / in vitro assays
 - [ ] Other: _{describe}_
 
+## Figure catalog
+
+_All figures in the paper. Caption = verbatim or paraphrased from manuscript. Interpretation = what the figure demonstrates scientifically. Mark open-access papers only; for paywalled papers leave caption blank and note "paywalled"._
+
+| Figure | Caption (from manuscript) | Interpretation |
+|--------|--------------------------|----------------|
+| Fig 1 | | |
+| Fig 2 | | |
+| Fig 3 | | |
+
 ## Reproducible figures in cBioPortal
 
-_Which figures from the paper can be approximated in the cBioPortal UI? Use the Navigator views below._
+_Subset of figures above that can be approximated in the cBioPortal UI. Use the [Navigator MCP](https://mcp.cbioportal.org/navigator/mcp) to generate URLs._
 
-| Figure | What it shows | cBioPortal view | Approximate URL / instructions |
-|--------|--------------|-----------------|-------------------------------|
-| Fig 1A | | OncoPrint (ResultsView) | `https://www.cbioportal.org/results/oncoprint?study_id=…&gene_list=…` |
-| Fig 2B | | Survival (GroupComparison) | Select altered vs unaltered, Comparison → Survival tab |
-| Fig 3C | | Study View plots | Study View → Plots tab, X=…, Y=… |
+| Figure | cBioPortal view | URL |
+|--------|-----------------|-----|
+| Fig 1A | OncoPrint (ResultsView) | [Open](https://www.cbioportal.org/results/oncoprint?cancer_study_list=…&gene_list=…) |
+| Fig 2B | Comparison → Survival | [Open](https://www.cbioportal.org/results/comparison/survival?cancer_study_list=…&gene_list=…) |
+| Fig 3C | Study View → Plots | [Open](https://www.cbioportal.org/study/plots?id=…) |
 
-_Available cBioPortal views for figure reproduction:_
+_Available cBioPortal views:_
 - **Study View** tabs: Summary · Clinical Data · CN Segments · Plots
 - **Results View** tabs: OncoPrint · Cancer Types Summary · Mutual Exclusivity · Plots · Mutations · Structural Variants · Co-expression · Comparison · Survival · Pathways · Download
 - **Group Comparison** tabs: Overlap · Clinical · Survival · Alterations · Mutations · mRNA · Protein · DNA Methylation
