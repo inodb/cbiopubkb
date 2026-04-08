@@ -68,6 +68,32 @@ WHERE cancer_study_identifier = '{study_id}' AND alteration_type = 'MUTATION_EXT
 GROUP BY gene_panel_id ORDER BY n_samples DESC;
 ```
 
+## Cohort overlap reference
+
+**Pre-computed overlap matrix:** `data/cohort-overlaps.json`
+
+Contains all pairwise patient-level overlaps (>50 shared patients) across 511 cBioPortal studies, computed from shared `patient.stable_id` in ClickHouse. Structure:
+```json
+{
+  "study_sizes": { "msk_impact_2017": 10336, ... },
+  "study_names": { "msk_impact_2017": "MSK-IMPACT Clinical Sequencing Cohort 2017", ... },
+  "overlaps": {
+    "msk_impact_2017": [
+      { "partner": "msk_ch_2020", "shared": 9712, "pct_this": 94.0, "pct_partner": 40.2, "total_partner": 24146 },
+      ...
+    ]
+  }
+}
+```
+
+When writing the `## Related papers` → `### Cohort overlap` section for a paper:
+1. Look up `overlaps[cbioportal_study_id]` in `data/cohort-overlaps.json`
+2. For each partner with `shared > 200`, check if a paper in `papers/pmid-*.md` has `cbioportal_study_id` matching the partner
+3. Classify relationship:
+   - `pct_this > 80%` → this paper is mostly a **subset** of the partner
+   - `pct_partner > 80%` → this paper is mostly a **superset** of the partner
+   - Both < 80% → **partial overlap** (separate time window or selection criteria)
+
 ## Reproducibility two-axis schema
 
 ### Axis 1 — Data availability

@@ -161,3 +161,26 @@ _What could be tested in cBioPortal based on these findings that the paper did n
 ## Limitations (from paper)
 
 - 
+
+## Related papers
+
+### Cohort overlap
+
+_Studies in cBioPortal that share patients with this paper's cohort. Computed from patient stable_id overlap in ClickHouse. Source: `data/cohort-overlaps.json`._
+
+| cBioPortal study | Shared patients | % of this study | % of partner | Relationship |
+|-----------------|----------------|-----------------|--------------|--------------|
+| `study_id` | N | X% | Y% | superset / subset / partial overlap |
+
+_Overlap interpretation:_
+- **>80% of this study** → nearly all patients in this paper also appear there (superset)
+- **>80% of partner** → this study is nearly a complete subset of the partner
+- **10–80% both ways** → partial overlap; separate recruiting or time windows
+
+### Conceptual connections
+
+_Papers making related claims, validating/contradicting findings, or using the same cohort for different questions._
+
+| Paper | PMID | Connection |
+|-------|------|------------|
+| | | validates / contradicts / extends / same-cohort different-question |
