@@ -1,0 +1,171 @@
+---
+title: "Mutational landscape of metastatic cancer revealed from prospective clinical sequencing of 10,000 patients"
+doi: "10.1038/nm.4333"
+year: 2017
+authors: ["Zehir, A.", "Benayed, R.", "Shah, R.H.", "Berger, M.F.", "et al. (MSK)"]
+journal: "Nature Medicine"
+cbioportal_study_id: "msk_impact_2017"
+tags: [MSK-IMPACT, pan-cancer, metastatic, actionability, TERT, kinase-fusions, mutation-signatures, MSI, clinical-sequencing]
+raw: "Mutational landscape of metastatic cancer revealed from prospective clinical sequencing of 10,000 patients - Nature Medicine.md"
+---
+
+## Summary
+
+This paper describes the first large-scale deployment of MSK-IMPACT clinical sequencing, profiling 10,945 matched tumor-normal samples from 10,336 patients with advanced cancer across >300 detailed tumor types. It establishes the mutational landscape of metastatic cancer, characterizes TERT promoter mutations, kinase fusions, and mutation signatures at scale, and demonstrates actionability: 37% of patients harbor a clinically relevant alteration and 11% were enrolled on a genomically matched clinical trial. The complete dataset is publicly available on cBioPortal (`msk_impact_2017`). This is the foundational paper for the MSK-IMPACT cohort, which was later expanded 5× in the [msk-50k-2026](msk-50k-2026.md) paper.
+
+## Dataset
+
+| Field | Value |
+|-------|-------|
+| Cohort | MSK-IMPACT (first large-scale prospective cohort) |
+| N patients | 10,336 |
+| N tumors | 10,945 |
+| Cancer types | 62 principal types, >300 detailed types |
+| Assay | MSK-IMPACT 341-gene (26%) and 410-gene (74%) panels, matched tumor-normal |
+| Sequencing depth | Mean 718× |
+| cBioPortal study | [msk_impact_2017](http://cbioportal.org/msk-impact) |
+
+---
+
+## Key Findings
+
+### F1: Pan-cancer somatic landscape of advanced/metastatic cancer, enriched vs. primary (TCGA)
+
+**Finding:** MSK-IMPACT findings are broadly concordant with TCGA primary tumor data, but metastatic/treated tumors show significant enrichment of specific driver genes reflecting disease progression and treatment resistance.
+
+**Detail:** 78,066 nonsynonymous mutations detected. TP53 most frequently altered (41% of patients), KRAS second (15%). KRAS G12 is the single most common mutant codon (80% of KRAS mutations, 12% of all patients). Key metastasis/resistance-associated enrichments vs. TCGA: TP53 in prostate (29% vs 7%), AR L702H/H875Y in prostate (18% vs 1%), ESR1 in breast (11% vs 4%, almost exclusively post-hormone therapy metastases). 97% of 410-gene panel genes mutated in ≥5 principal tumor types, supporting broad profiling across lineages.
+
+**Genes / cancer types:** `TP53`, `KRAS`, `AR`, `ESR1`, `PIK3CA`, `BRAF` · Pan-cancer; prostate, breast highlighted
+
+**Data availability:** `available`
+> Full mutation, CNA, and fusion data in `msk_impact_2017` on cBioPortal. Clinical metadata (tumor type, metastatic status) available.
+
+**Tool support:** `native`
+> Cancer Summary, OncoPrint, and Mutations tabs reproduce frequency and distribution natively. TCGA comparison requires loading both studies and using cross-study query feature in cBioPortal.
+
+**Concepts:** #pan-cancer-map #metastatic-enrichment #treatment-resistance #driver-alterations
+
+---
+
+### F2: TERT promoter mutations: largest cross-cancer analysis, associated with worse survival
+
+**Finding:** TERT promoter mutations are highly prevalent in 43 principal tumor types; most common in bladder (70%), glioma (67%), thyroid (60%), and cutaneous melanoma (49%). Altered TERT promoter is consistently associated with shorter overall survival.
+
+**Detail:** G>A substitutions at −124 and −146 bp account for 96.3% of TERT mutations. 10 additional recurrent sites identified (novel), all within 100 bp of the transcription start site, including −138 bp (n=21 patients). TERT promoter is absent from WES, making targeted panels uniquely powered for this analysis.
+
+**Genes / cancer types:** `TERT` (promoter) · Bladder, glioma, thyroid, cutaneous melanoma (highest); 43 tumor types total
+
+**Data availability:** `available`
+> TERT promoter mutations are loaded in `msk_impact_2017`. Overall survival data available as clinical attribute.
+
+**Tool support:** `native`
+> Mutations tab for TERT (filter to promoter region). Survival analysis (Kaplan-Meier) by TERT promoter status available natively via the Survival tab in cBioPortal after cohort selection.
+
+**Concepts:** #TERT #promoter-mutations #survival #pan-cancer-map
+
+---
+
+### F3: Kinase fusions occur across many more tumor types than previously known, including novel partner genes
+
+**Finding:** 35% of all detected fusions involve kinase genes. ALK, RET, and ROS1 fusions—previously known mainly in lung cancer—were found in 11 additional tumor types. 51 novel kinase fusion partner genes identified. BRAF fusions span 11 tumor types and 18 partner genes (10 novel).
+
+**Detail:** Most novel fusions occurred in tumors lacking other clear drivers, supporting functional relevance. A novel recurrent fusion CDK5RAP2-BRAF found in 2 independent melanomas without other drivers. 7 samples with BRAF intragenic multiexon deletions predicted to confer RAS-independent dimerization; 4 of these arose de novo without prior BRAF inhibitor therapy — a potential new driver mechanism distinct from acquired resistance.
+
+**Genes / cancer types:** `ALK`, `RET`, `ROS1`, `BRAF`, `NTRK1/2/3`, `CDK5RAP2-BRAF` fusion · Pan-cancer; lung, melanoma, sarcoma highlighted
+
+**Data availability:** `available`
+> Fusion/rearrangement data loaded in `msk_impact_2017`. Structural variant calls included.
+
+**Tool support:** `native`
+> Fusion tab in cBioPortal shows partner genes and tumor type distribution. Cross-cancer fusion comparison possible with multi-study queries. Novel BRAF intragenic deletions may require custom filtering at variant level.
+
+**Concepts:** #fusion-oncogenes #BRAF #kinase-fusions #de-novo-resistance #tumor-agnostic
+
+---
+
+### F4: Mutation signatures inferred from targeted panel data; MMR/MSI detection identifies immunotherapy candidates
+
+**Finding:** Mutation signatures can be reliably inferred from targeted panel data (R²=0.76 vs. matched WES). In 9% of patients (n=994) with elevated TMB, dominant signatures were assigned (POLE, MMR, UV, smoking, temozolomide). 102 patients across 11 tumor types had MSI by combined signature + MSIsensor; 45% were not previously tested.
+
+**Detail:** Signatures expected by cancer type: UV in melanoma, temozolomide in glioma, smoking in lung, POLE/MMR in CRC/endometrial. MSI patients showed elevated indel:substitution ratios (median 0.46 vs 0.06 in POLE). Prostate cancer case study: MSK-IMPACT revealed unanticipated MMR signature, patient enrolled on anti-PD-L1 trial with marked response — demonstrating benefit of comprehensive profiling in tumor types where MSI testing was not standard.
+
+**Genes / cancer types:** `POLE`, `MLH1`, `MSH2`, `MSH6`, `PMS2` · CRC, endometrial, melanoma, glioma, lung; prostate (unexpected MSI case)
+
+**Data availability:** `available`
+> TMB and MSI status available as clinical attributes in `msk_impact_2017`. Mutation data for signature analysis available via API.
+
+**Tool support:** `api`
+> TMB and MSI filters available natively in Study View. Full signature decomposition (SigProfiler, deconstructSigs) requires pulling SNV data via API and running externally. MSI status cross-tabulation by tumor type is native.
+
+**Concepts:** #mutation-signatures #MSI #TMB #ICI-biomarker #POLE #immunotherapy
+
+---
+
+### F5: 37% of patients have clinically actionable alterations; 11% enrolled on genomically matched trial
+
+**Finding:** Using OncoKB tiered annotation, 36.7% of patients (n=3,792) harbored at least one actionable somatic alteration. 11% of the first 5,009 patients tested were enrolled on a genomically matched clinical trial based on tumor genotype.
+
+**Detail:** Highest actionability rates: GIST (76%), thyroid (61%), breast (61%), melanoma (58%). Patients matched to trials across >50 distinct gene targets, most commonly MAPK and PI3K pathway. BRAF V600 in non-melanoma histologies (n=211): 36% received BRAF-targeted therapy; clinical benefit rate identical to melanoma (71%), supporting tumor-agnostic targeting. Gap between actionable alteration rate (37%) and trial enrollment (11%) reflects trial availability, patient fitness, and ongoing standard therapy.
+
+**Genes / cancer types:** `BRAF`, `PIK3CA`, `KRAS`, `ERBB2`, `ALK`, `RET`, `EGFR` (and 50+ others) · Pan-cancer; GIST, thyroid, breast, melanoma highest
+
+**Data availability:** `available`
+> OncoKB annotations available via cBioPortal overlay on `msk_impact_2017`. Clinical trial enrollment data not directly in cBioPortal but alteration data is.
+
+**Tool support:** `native`
+> OncoKB actionability levels overlay available natively in cBioPortal Mutations and OncoPrint views. Filtering by actionability level supported in Study View. Trial enrollment outcomes require external clinical data.
+
+**Concepts:** #actionability #OncoKB #tumor-agnostic #precision-oncology #BRAF #clinical-utility
+
+---
+
+### F6: Matched normal sequencing enables germline pathogenic variant detection as clinical byproduct
+
+**Finding:** Matched tumor-normal sequencing allows identification of pathogenic germline variants as a byproduct of somatic profiling, with an IRB-approved return-of-results process established for clinically actionable germline findings.
+
+**Detail:** 69% of somatic mutations detected would be difficult to distinguish from germline variants without a matched normal (not in COSMIC v78 at time of study). Germline pathogenic variants inform therapy (e.g., PARP inhibition for DNA repair defects) and hereditary cancer risk for family members. Prospective germline analysis IRB protocol established (NCT01775072).
+
+**Genes / cancer types:** `BRCA1`, `BRCA2`, `ATM`, `PALB2`, `MLH1`, `MSH2` (implied DNA repair/MMR) · Pan-cancer
+
+**Data availability:** `partial`
+> Somatic calls in `msk_impact_2017`. Germline pathogenic variants are reported separately and subject to additional consent/privacy restrictions; not fully present in the public cBioPortal dataset.
+
+**Tool support:** `custom`
+> Germline variant analysis requires matched normal BAM data access (not publicly available) and germline classification pipelines. cBioPortal displays somatic data only for public studies.
+
+**Concepts:** #germline #hereditary-cancer #BRCA #matched-normal #clinical-pipeline
+
+---
+
+## Cross-paper connections
+
+### Relationship to [msk-50k-2026](msk-50k-2026.md)
+
+| Topic | 2017 (n=10K) | 2026 (n=50K) |
+|-------|-------------|-------------|
+| Cohort size | 10,336 patients | 48,179 patients (~5×) |
+| Cancer subtypes | >300 detailed | 448 histological subtypes |
+| TERT promoter | Pan-cancer prevalence established | Later onset associations characterized |
+| Kinase fusions | Cross-histology occurrence documented | Fusions specifically linked to early age of onset |
+| MSI | Prevalence across cancers, case studies | Absence in cutaneous melanoma & ILC formally noted |
+| Actionability | 37% actionable (OncoKB) | Expanded to HLA-based TCR therapy eligibility |
+| Mutation signatures | Signatures inferred from panel; MSI detection | Dominant etiology identified in 80% of TMB-H tumors |
+| Driver context | Gene-level landscape | 1/3 drivers in non-canonical contexts; clonality characterization |
+
+---
+
+## Open Questions / Hypotheses
+
+- Do the AR and ESR1 resistance mutations detected at higher rates in metastatic vs. primary tumors in 2017 show further enrichment in the 2026 MSK-50K cohort, consistent with increasing use of hormone therapies?
+- The 71% BRAF-inhibitor clinical benefit rate was identical in melanoma and non-melanoma histologies in 2017 — does this hold in the 2026 cohort with 5× more non-melanoma BRAF patients and longer follow-up?
+- Can the ~55% "actionable but not enrolled on trial" gap be explained by co-mutation context (canonical vs. non-canonical drivers per the 2026 paper)?
+- Which of the 51 novel kinase fusion partner genes identified in 2017 now have additional clinical evidence in cBioPortal studies added since?
+
+## Limitations (from paper)
+
+- Cohort is from a single major referral center; skewed toward advanced disease and heavily pre-treated patients
+- Mixture of 341- and 410-gene panels; some genes not consistently profiled across all patients
+- Mutation signature analysis restricted to the 9% with elevated TMB; may underestimate MSI prevalence
+- MSI analysis not comprehensive — restricted to highest-TMB subset
+- Clinical utility assessment (11% trial enrollment) reflects a single institution's trial portfolio at one point in time
+- No RNA-seq, methylation, or WGS; limited to panel-targeted regions
