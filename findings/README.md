@@ -83,7 +83,7 @@ The following concepts appear in **20 or more papers** and represent the backbon
 
 *Kaplan-Meier survival analysis, overall survival (OS), progression-free survival (PFS), or disease-free survival (DFS) correlated with genomic features*
 
-**Papers (221):** [[msk-impact-2017]], [[pmid-18772890]], [[pmid-18948947]], [[pmid-20601955]], [[pmid-21252315]], [[pmid-21720365]], [[pmid-21798893]], [[pmid-21798897]], [[pmid-22158988]], [[pmid-22522925]], [[pmid-22722829]], [[pmid-22722839]], [[pmid-22832583]], [[pmid-22960745]], [[pmid-22980975]] *(+206 more — see [All Concepts](#all-concepts-az))*
+**Papers (221):** [[pmid-28481359]], [[pmid-18772890]], [[pmid-18948947]], [[pmid-20601955]], [[pmid-21252315]], [[pmid-21720365]], [[pmid-21798893]], [[pmid-21798897]], [[pmid-22158988]], [[pmid-22522925]], [[pmid-22722829]], [[pmid-22722839]], [[pmid-22832583]], [[pmid-22960745]], [[pmid-22980975]] *(+206 more — see [All Concepts](#all-concepts-az))*
 
 #### #molecular-subtypes (180 papers) {#molecularsubtypes}
 
@@ -95,7 +95,7 @@ The following concepts appear in **20 or more papers** and represent the backbon
 
 *Genomic alterations with matched targeted therapies, clinical trial eligibility, or FDA-approved indications*
 
-**Papers (172):** [[msk-impact-2017]], [[pmid-18772890]], [[pmid-20601955]], [[pmid-21252315]], [[pmid-21720365]], [[pmid-21798893]], [[pmid-21798897]], [[pmid-22343534]], [[pmid-22460905]], [[pmid-22610119]], [[pmid-22622578]], [[pmid-22722202]], [[pmid-22802077]], [[pmid-22810696]], [[pmid-22817889]] *(+157 more — see [All Concepts](#all-concepts-az))*
+**Papers (172):** [[pmid-28481359]], [[pmid-18772890]], [[pmid-20601955]], [[pmid-21252315]], [[pmid-21720365]], [[pmid-21798893]], [[pmid-21798897]], [[pmid-22343534]], [[pmid-22460905]], [[pmid-22610119]], [[pmid-22622578]], [[pmid-22722202]], [[pmid-22802077]], [[pmid-22810696]], [[pmid-22817889]] *(+157 more — see [All Concepts](#all-concepts-az))*
 
 #### #copy-number (129 papers) {#copynumber}
 
@@ -107,7 +107,7 @@ The following concepts appear in **20 or more papers** and represent the backbon
 
 *COSMIC mutational signatures (SBS, DBS, ID) reflecting underlying mutagenic processes (APOBEC, UV, MMR deficiency, POLE)*
 
-**Papers (62):** [[msk-impact-2017]], [[pmid-21798897]], [[pmid-22622578]], [[pmid-22722201]], [[pmid-22810696]], [[pmid-22817889]], [[pmid-22842228]], [[pmid-22941188]], [[pmid-22960745]], [[pmid-22980975]], [[pmid-23334666]], [[pmid-23415222]], [[pmid-23525077]], [[pmid-23634996]], [[pmid-23699601]] *(+47 more — see [All Concepts](#all-concepts-az))*
+**Papers (62):** [[pmid-28481359]], [[pmid-21798897]], [[pmid-22622578]], [[pmid-22722201]], [[pmid-22810696]], [[pmid-22817889]], [[pmid-22842228]], [[pmid-22941188]], [[pmid-22960745]], [[pmid-22980975]], [[pmid-23334666]], [[pmid-23415222]], [[pmid-23525077]], [[pmid-23634996]], [[pmid-23699601]] *(+47 more — see [All Concepts](#all-concepts-az))*
 
 #### #clonal-evolution (67 papers) {#clonalevolution}
 
@@ -125,25 +125,25 @@ The following concepts appear in **20 or more papers** and represent the backbon
 
 *Cancer driver alterations interpreted in their tumor type and co-alteration context*
 
-**Papers (56):** [[msk-50k-2026]], [[pmid-21798893]], [[pmid-21798897]], [[pmid-22158988]], [[pmid-22343534]], [[pmid-22495314]], [[pmid-22610119]], [[pmid-22722201]], [[pmid-22722202]], [[pmid-22722839]], [[pmid-22817889]], [[pmid-22842228]], [[pmid-23103869]], [[pmid-23415222]], [[pmid-23525077]] *(+41 more — see [All Concepts](#all-concepts-az))*
+**Papers (56):** [[pmid-41895280]], [[pmid-21798893]], [[pmid-21798897]], [[pmid-22158988]], [[pmid-22343534]], [[pmid-22495314]], [[pmid-22610119]], [[pmid-22722201]], [[pmid-22722202]], [[pmid-22722839]], [[pmid-22817889]], [[pmid-22842228]], [[pmid-23103869]], [[pmid-23415222]], [[pmid-23525077]] *(+41 more — see [All Concepts](#all-concepts-az))*
 
 #### #metastatic-enrichment (30 papers) {#metastaticenrichment}
 
 *Genomic alterations enriched in metastatic versus primary tumors*
 
-**Papers (30):** [[msk-impact-2017]], [[pmid-22722839]], [[pmid-23685749]], [[pmid-25164765]], [[pmid-25583476]], [[pmid-25589618]], [[pmid-27442865]], [[pmid-27749842]], [[pmid-28027327]], [[pmid-28783718]], [[pmid-28825054]], [[pmid-29316426]], [[pmid-30068706]], [[pmid-30205045]], [[pmid-31591597]] *(+15 more — see [All Concepts](#all-concepts-az))*
+**Papers (30):** [[pmid-28481359]], [[pmid-22722839]], [[pmid-23685749]], [[pmid-25164765]], [[pmid-25583476]], [[pmid-25589618]], [[pmid-27442865]], [[pmid-27749842]], [[pmid-28027327]], [[pmid-28783718]], [[pmid-28825054]], [[pmid-29316426]], [[pmid-30068706]], [[pmid-30205045]], [[pmid-31591597]] *(+15 more — see [All Concepts](#all-concepts-az))*
 
 #### #pan-cancer-map (32 papers) {#pancancermap}
 
 *Pan-cancer analyses characterizing mutation landscapes across multiple cancer types simultaneously*
 
-**Papers (32):** [[msk-50k-2026]], [[msk-impact-2017]], [[pmid-22460905]], [[pmid-23000897]], [[pmid-25079317]], [[pmid-26451490]], [[pmid-26804919]], [[pmid-28007021]], [[pmid-28162975]], [[pmid-28783718]], [[pmid-29596782]], [[pmid-29610475]], [[pmid-29617662]], [[pmid-29622463]], [[pmid-29625048]] *(+17 more — see [All Concepts](#all-concepts-az))*
+**Papers (32):** [[pmid-41895280]], [[pmid-28481359]], [[pmid-22460905]], [[pmid-23000897]], [[pmid-25079317]], [[pmid-26451490]], [[pmid-26804919]], [[pmid-28007021]], [[pmid-28162975]], [[pmid-28783718]], [[pmid-29596782]], [[pmid-29610475]], [[pmid-29617662]], [[pmid-29622463]], [[pmid-29625048]] *(+17 more — see [All Concepts](#all-concepts-az))*
 
 #### #clonality (25 papers) {#clonality}
 
 *Tumor clonal architecture, cancer cell fraction estimation, and subclone detection*
 
-**Papers (25):** [[msk-50k-2026]], [[pmid-22343534]], [[pmid-23415222]], [[pmid-24030381]], [[pmid-25164765]], [[pmid-26095796]], [[pmid-27749842]], [[pmid-28196596]], [[pmid-30052636]], [[pmid-30150660]], [[pmid-32864625]], [[pmid-33025139]], [[pmid-34910928]], [[pmid-35121644]], [[pmid-35504881]] *(+10 more — see [All Concepts](#all-concepts-az))*
+**Papers (25):** [[pmid-41895280]], [[pmid-22343534]], [[pmid-23415222]], [[pmid-24030381]], [[pmid-25164765]], [[pmid-26095796]], [[pmid-27749842]], [[pmid-28196596]], [[pmid-30052636]], [[pmid-30150660]], [[pmid-32864625]], [[pmid-33025139]], [[pmid-34910928]], [[pmid-35121644]], [[pmid-35504881]] *(+10 more — see [All Concepts](#all-concepts-az))*
 
 #### #classification (25 papers) {#classification}
 
@@ -197,7 +197,7 @@ The following concepts appear in **20 or more papers** and represent the backbon
 
 *BRAF mutations (predominantly V600E) activating MAPK signaling; druggable target in melanoma, thyroid, colorectal*
 
-**Papers (52):** [[msk-50k-2026]], [[msk-impact-2017]], [[pmid-22343534]], [[pmid-22460905]], [[pmid-22622578]], [[pmid-22802077]], [[pmid-22817889]], [[pmid-22895193]], [[pmid-23817572]], [[pmid-23897969]], [[pmid-24120142]], [[pmid-24265153]], [[pmid-24293293]], [[pmid-24336570]], [[pmid-24434212]] *(+37 more — see [All Concepts](#all-concepts-az))*
+**Papers (52):** [[pmid-41895280]], [[pmid-28481359]], [[pmid-22343534]], [[pmid-22460905]], [[pmid-22622578]], [[pmid-22802077]], [[pmid-22817889]], [[pmid-22895193]], [[pmid-23817572]], [[pmid-23897969]], [[pmid-24120142]], [[pmid-24265153]], [[pmid-24293293]], [[pmid-24336570]], [[pmid-24434212]] *(+37 more — see [All Concepts](#all-concepts-az))*
 
 #### #egfr (33 papers) {#egfr}
 
@@ -251,7 +251,7 @@ The following concepts appear in **20 or more papers** and represent the backbon
 
 *TERT promoter mutations activating telomerase; frequent in glioma, melanoma, urothelial, and thyroid cancers*
 
-**Papers (31):** [[msk-impact-2017]], [[pmid-24120142]], [[pmid-25155756]], [[pmid-25417114]], [[pmid-26466568]], [[pmid-26824661]], [[pmid-26878173]], [[pmid-27442865]], [[pmid-28373299]], [[pmid-28472509]], [[pmid-28583311]], [[pmid-28726821]], [[pmid-30052636]], [[pmid-30675060]], [[pmid-31068700]] *(+16 more — see [All Concepts](#all-concepts-az))*
+**Papers (31):** [[pmid-28481359]], [[pmid-24120142]], [[pmid-25155756]], [[pmid-25417114]], [[pmid-26466568]], [[pmid-26824661]], [[pmid-26878173]], [[pmid-27442865]], [[pmid-28373299]], [[pmid-28472509]], [[pmid-28583311]], [[pmid-28726821]], [[pmid-30052636]], [[pmid-30675060]], [[pmid-31068700]] *(+16 more — see [All Concepts](#all-concepts-az))*
 
 #### #mapk (32 papers) {#mapk}
 
@@ -287,13 +287,13 @@ The following concepts appear in **20 or more papers** and represent the backbon
 
 *Immune checkpoint inhibitors (PD-1, PD-L1, CTLA-4) and other immunotherapies; response predictors and resistance mechanisms*
 
-**Papers (59):** [[msk-50k-2026]], [[msk-impact-2017]], [[pmid-22895193]], [[pmid-22960745]], [[pmid-25409260]], [[pmid-25765070]], [[pmid-26091043]], [[pmid-26359337]], [[pmid-26804919]], [[pmid-26997480]], [[pmid-27149842]], [[pmid-27158780]], [[pmid-27169994]], [[pmid-27939400]], [[pmid-28336552]] *(+44 more — see [All Concepts](#all-concepts-az))*
+**Papers (59):** [[pmid-41895280]], [[pmid-28481359]], [[pmid-22895193]], [[pmid-22960745]], [[pmid-25409260]], [[pmid-25765070]], [[pmid-26091043]], [[pmid-26359337]], [[pmid-26804919]], [[pmid-26997480]], [[pmid-27149842]], [[pmid-27158780]], [[pmid-27169994]], [[pmid-27939400]], [[pmid-28336552]] *(+44 more — see [All Concepts](#all-concepts-az))*
 
 #### #treatment-resistance (46 papers) {#treatmentresistance}
 
 *Mechanisms of acquired or intrinsic resistance to targeted therapy, chemotherapy, or immunotherapy*
 
-**Papers (46):** [[msk-impact-2017]], [[pmid-18772890]], [[pmid-22941188]], [[pmid-23415222]], [[pmid-23897969]], [[pmid-24336570]], [[pmid-25164765]], [[pmid-26000489]], [[pmid-26544944]], [[pmid-26760213]], [[pmid-26855148]], [[pmid-27158780]], [[pmid-27749842]], [[pmid-27959731]], [[pmid-28196596]] *(+31 more — see [All Concepts](#all-concepts-az))*
+**Papers (46):** [[pmid-28481359]], [[pmid-18772890]], [[pmid-22941188]], [[pmid-23415222]], [[pmid-23897969]], [[pmid-24336570]], [[pmid-25164765]], [[pmid-26000489]], [[pmid-26544944]], [[pmid-26760213]], [[pmid-26855148]], [[pmid-27158780]], [[pmid-27749842]], [[pmid-27959731]], [[pmid-28196596]] *(+31 more — see [All Concepts](#all-concepts-az))*
 
 #### #drug-response (20 papers) {#drugresponse}
 
@@ -305,19 +305,19 @@ The following concepts appear in **20 or more papers** and represent the backbon
 
 *Biomarkers predictive of immune checkpoint inhibitor response (TMB, MSI, PD-L1, TILs)*
 
-**Papers (36):** [[msk-50k-2026]], [[msk-impact-2017]], [[pmid-25409260]], [[pmid-25765070]], [[pmid-26091043]], [[pmid-26359337]], [[pmid-26997480]], [[pmid-27149842]], [[pmid-27169994]], [[pmid-27939400]], [[pmid-29033130]], [[pmid-29301960]], [[pmid-29337640]], [[pmid-29657128]], [[pmid-29867230]] *(+21 more — see [All Concepts](#all-concepts-az))*
+**Papers (36):** [[pmid-41895280]], [[pmid-28481359]], [[pmid-25409260]], [[pmid-25765070]], [[pmid-26091043]], [[pmid-26359337]], [[pmid-26997480]], [[pmid-27149842]], [[pmid-27169994]], [[pmid-27939400]], [[pmid-29033130]], [[pmid-29301960]], [[pmid-29337640]], [[pmid-29657128]], [[pmid-29867230]] *(+21 more — see [All Concepts](#all-concepts-az))*
 
 #### #msi (54 papers) {#msi}
 
 *Microsatellite instability (MSI-H/MSS) as a biomarker for immunotherapy response and Lynch syndrome*
 
-**Papers (54):** [[msk-50k-2026]], [[msk-impact-2017]], [[pmid-22810696]], [[pmid-22895193]], [[pmid-23636398]], [[pmid-25079317]], [[pmid-25233892]], [[pmid-25765070]], [[pmid-26804919]], [[pmid-27149842]], [[pmid-27158780]], [[pmid-27939400]], [[pmid-28485815]], [[pmid-29316426]], [[pmid-29337640]] *(+39 more — see [All Concepts](#all-concepts-az))*
+**Papers (54):** [[pmid-41895280]], [[pmid-28481359]], [[pmid-22810696]], [[pmid-22895193]], [[pmid-23636398]], [[pmid-25079317]], [[pmid-25233892]], [[pmid-25765070]], [[pmid-26804919]], [[pmid-27149842]], [[pmid-27158780]], [[pmid-27939400]], [[pmid-28485815]], [[pmid-29316426]], [[pmid-29337640]] *(+39 more — see [All Concepts](#all-concepts-az))*
 
 #### #tmb (49 papers) {#tmb}
 
 *Tumor mutational burden as a pan-cancer immunotherapy biomarker*
 
-**Papers (49):** [[msk-50k-2026]], [[msk-impact-2017]], [[pmid-24974848]], [[pmid-25096233]], [[pmid-25765070]], [[pmid-26091043]], [[pmid-26095796]], [[pmid-26359337]], [[pmid-27149842]], [[pmid-27939400]], [[pmid-29033130]], [[pmid-29301960]], [[pmid-29337640]], [[pmid-29617662]], [[pmid-29657128]] *(+34 more — see [All Concepts](#all-concepts-az))*
+**Papers (49):** [[pmid-41895280]], [[pmid-28481359]], [[pmid-24974848]], [[pmid-25096233]], [[pmid-25765070]], [[pmid-26091043]], [[pmid-26095796]], [[pmid-26359337]], [[pmid-27149842]], [[pmid-27939400]], [[pmid-29033130]], [[pmid-29301960]], [[pmid-29337640]], [[pmid-29617662]], [[pmid-29657128]] *(+34 more — see [All Concepts](#all-concepts-az))*
 
 #### #liquid-biopsy (23 papers) {#liquidbiopsy}
 
@@ -341,13 +341,13 @@ The following concepts appear in **20 or more papers** and represent the backbon
 
 *MSK-IMPACT clinical sequencing panel data and cohort analyses from Memorial Sloan Kettering*
 
-**Papers (35):** [[msk-50k-2026]], [[msk-impact-2017]], [[pmid-28336552]], [[pmid-28472509]], [[pmid-28825054]], [[pmid-30427539]], [[pmid-30643254]], [[pmid-30675060]], [[pmid-30687805]], [[pmid-32220886]], [[pmid-32220891]], [[pmid-32317181]], [[pmid-32437664]], [[pmid-32730818]], [[pmid-32791233]] *(+20 more — see [All Concepts](#all-concepts-az))*
+**Papers (35):** [[pmid-41895280]], [[pmid-28481359]], [[pmid-28336552]], [[pmid-28472509]], [[pmid-28825054]], [[pmid-30427539]], [[pmid-30643254]], [[pmid-30675060]], [[pmid-30687805]], [[pmid-32220886]], [[pmid-32220891]], [[pmid-32317181]], [[pmid-32437664]], [[pmid-32730818]], [[pmid-32791233]] *(+20 more — see [All Concepts](#all-concepts-az))*
 
 #### #germline (22 papers) {#germline}
 
 *Inherited pathogenic variants (BRCA1/2, MLH1, etc.) and hereditary cancer risk*
 
-**Papers (22):** [[msk-impact-2017]], [[pmid-23334668]], [[pmid-24658004]], [[pmid-26804919]], [[pmid-27713405]], [[pmid-28007021]], [[pmid-28825054]], [[pmid-29625049]], [[pmid-29713003]], [[pmid-30068706]], [[pmid-30537516]], [[pmid-30687805]], [[pmid-31263031]], [[pmid-32025007]], [[pmid-32561749]] *(+7 more — see [All Concepts](#all-concepts-az))*
+**Papers (22):** [[pmid-28481359]], [[pmid-23334668]], [[pmid-24658004]], [[pmid-26804919]], [[pmid-27713405]], [[pmid-28007021]], [[pmid-28825054]], [[pmid-29625049]], [[pmid-29713003]], [[pmid-30068706]], [[pmid-30537516]], [[pmid-30687805]], [[pmid-31263031]], [[pmid-32025007]], [[pmid-32561749]] *(+7 more — see [All Concepts](#all-concepts-az))*
 
 #### #tumor-microenvironment (30 papers) {#tumormicroenvironment}
 
@@ -371,7 +371,7 @@ The following concepts appear in **20 or more papers** and represent the backbon
 
 *Recurrent somatic mutation hotspots with functional or clinical significance*
 
-**Papers (32):** [[msk-50k-2026]], [[pmid-21798893]], [[pmid-21798897]], [[pmid-22158988]], [[pmid-22343534]], [[pmid-22610119]], [[pmid-22722839]], [[pmid-22817889]], [[pmid-22842228]], [[pmid-23415222]], [[pmid-23525077]], [[pmid-23685749]], [[pmid-24121792]], [[pmid-24185509]], [[pmid-24974848]] *(+17 more — see [All Concepts](#all-concepts-az))*
+**Papers (32):** [[pmid-41895280]], [[pmid-21798893]], [[pmid-21798897]], [[pmid-22158988]], [[pmid-22343534]], [[pmid-22610119]], [[pmid-22722839]], [[pmid-22817889]], [[pmid-22842228]], [[pmid-23415222]], [[pmid-23525077]], [[pmid-23685749]], [[pmid-24121792]], [[pmid-24185509]], [[pmid-24974848]] *(+17 more — see [All Concepts](#all-concepts-az))*
 
 #### #breast (28 papers) {#breast}
 
@@ -473,7 +473,7 @@ Papers grouped by primary cancer type. Many papers span multiple types (pan-canc
 
 ### 🫀 Breast (41 papers)
 
-- [[msk-impact-2017]] — *Mutational landscape of metastatic cancer revealed from prospective clinical sequenci...*
+- [[pmid-28481359]] — *Mutational landscape of metastatic cancer revealed from prospective clinical sequenci...*
 - [[pmid-21720365]] — *pmid-21720365*
 - [[pmid-22495314]] — *The clonal and mutational evolution spectrum of primary triple-negative breast cancer...*
 - [[pmid-22522925]] — *The genomic and transcriptomic architecture of 2,000 breast tumours reveals novel sub...*
@@ -787,8 +787,8 @@ Papers grouped by primary cancer type. Many papers span multiple types (pan-canc
 
 ### 🌐 Pan-Cancer (78 papers)
 
-- [[msk-50k-2026]] — *Cancer type-specific variation in patterns of driver alterations across 50,000 tumors*
-- [[msk-impact-2017]] — *Mutational landscape of metastatic cancer revealed from prospective clinical sequenci...*
+- [[pmid-41895280]] — *Cancer type-specific variation in patterns of driver alterations across 50,000 tumors*
+- [[pmid-28481359]] — *Mutational landscape of metastatic cancer revealed from prospective clinical sequenci...*
 - [[pmid-18772890]] — *Comprehensive genomic characterization defines human glioblastoma genes and core path...*
 - [[pmid-21720365]] — *pmid-21720365*
 - [[pmid-22460905]] — *The Cancer Cell Line Encyclopedia enables predictive modelling of anticancer drug sen...*
@@ -941,7 +941,7 @@ Tags with only 1 paper are shown without paper links for brevity.
 - **#acquired-resistance** (1 paper): [[pmid-36543146]]
 - **#acral** (1 paper): [[pmid-28373299]]
 - **#actg1** (1 paper): [[pmid-25401301]]
-- **#actionability** (172 papers): [[msk-impact-2017]], [[pmid-18772890]], [[pmid-20601955]], [[pmid-21252315]], [[pmid-21720365]], [[pmid-21798893]], [[pmid-21798897]], [[pmid-22343534]] *(+164 more)*
+- **#actionability** (172 papers): [[pmid-28481359]], [[pmid-18772890]], [[pmid-20601955]], [[pmid-21252315]], [[pmid-21720365]], [[pmid-21798893]], [[pmid-21798897]], [[pmid-22343534]] *(+164 more)*
 - **#active-surveillance** (2 papers): [[pmid-25024180]], [[pmid-37910594]]
 - **#adaptive-resistance** (1 paper): [[pmid-27149842]]
 - **#adenocarcinoma** (3 papers): [[pmid-18948947]], [[pmid-24816253]], [[pmid-33795256]]
@@ -952,7 +952,7 @@ Tags with only 1 paper are shown without paper links for brevity.
 - **#african-american** (1 paper): [[pmid-25583493]]
 - **#age** (1 paper): [[pmid-23415222]]
 - **#age-correlation** (1 paper): [[pmid-22832583]]
-- **#age-of-onset** (4 papers): [[msk-50k-2026]], [[pmid-34405229]], [[pmid-35504881]], [[pmid-38212634]]
+- **#age-of-onset** (4 papers): [[pmid-41895280]], [[pmid-34405229]], [[pmid-35504881]], [[pmid-38212634]]
 - **#aggressive-subtype** (1 paper): [[pmid-25223734]]
 - **#aging** (1 paper): [[pmid-33029006]]
 - **#aging-signature** (2 papers): [[pmid-29713087]], [[pmid-33263939]]
@@ -971,15 +971,15 @@ Tags with only 1 paper are shown without paper links for brevity.
 - **#alkylating-therapy** (1 paper): [[pmid-31263031]]
 - **#all** (2 papers): [[pmid-25730765]], [[pmid-27776115]]
 - **#all leukemia hypodiploid pediatric ikzf2 ikzf3 ras mapk pi3k copy-number aneuploidy tp53 survival wes wgs somatic-mutation near-haploid low-hypodiploid nf1 rb1 crebbp** (1 paper): [[pmid-23334668]]
-- **#allele-specific-cn** (1 paper): [[msk-50k-2026]]
+- **#allele-specific-cn** (1 paper): [[pmid-41895280]]
 - **#allelic-imbalance** (2 papers): [[pmid-21796119]], [[pmid-39753968]]
 - **#alpelisib** (1 paper): [[pmid-31552290]]
 - **#alt** (4 papers): [[pmid-21252315]], [[pmid-24120142]], [[pmid-26466568]], [[pmid-40097403]]
-- **#alteration-type-matters** (1 paper): [[msk-50k-2026]]
+- **#alteration-type-matters** (1 paper): [[pmid-41895280]]
 - **#aml** (5 papers): [[pmid-23634996]], [[pmid-27276561]], [[pmid-27959731]], [[pmid-30333627]], [[pmid-35868306]]
 - **#amplification** (8 papers): [[pmid-22522925]], [[pmid-22895193]], [[pmid-22941189]], [[pmid-23525077]], [[pmid-24120142]], [[pmid-24436047]], [[pmid-24816253]], [[pmid-29100075]]
 - **#anaplastic** (1 paper): [[pmid-26878173]]
-- **#ancestry** (10 papers): [[msk-50k-2026]], [[pmid-22722202]], [[pmid-25583476]], [[pmid-25583493]], [[pmid-29713003]], [[pmid-30427539]], [[pmid-34667026]], [[pmid-34819518]] *(+2 more)*
+- **#ancestry** (10 papers): [[pmid-41895280]], [[pmid-22722202]], [[pmid-25583476]], [[pmid-25583493]], [[pmid-29713003]], [[pmid-30427539]], [[pmid-34667026]], [[pmid-34819518]] *(+2 more)*
 - **#androgen-receptor** (3 papers): [[pmid-26928463]], [[pmid-31061129]], [[pmid-32220891]]
 - **#androgen-signaling** (2 papers): [[pmid-22722839]], [[pmid-29610475]]
 - **#aneuploidy** (5 papers): [[pmid-23334668]], [[pmid-29337640]], [[pmid-29622463]], [[pmid-36493333]], [[pmid-36723991]]
@@ -1052,13 +1052,13 @@ Tags with only 1 paper are shown without paper links for brevity.
 - **#blca** (1 paper): [[pmid-29617662]]
 - **#blis** (1 paper): [[pmid-32719455]]
 - **#blood** (1 paper): [[pmid-32214244]]
-- **#braf** (52 papers): [[msk-50k-2026]], [[msk-impact-2017]], [[pmid-22343534]], [[pmid-22460905]], [[pmid-22622578]], [[pmid-22802077]], [[pmid-22817889]], [[pmid-22895193]] *(+44 more)*
+- **#braf** (52 papers): [[pmid-41895280]], [[pmid-28481359]], [[pmid-22343534]], [[pmid-22460905]], [[pmid-22622578]], [[pmid-22802077]], [[pmid-22817889]], [[pmid-22895193]] *(+44 more)*
 - **#braf-inhibitor** (2 papers): [[pmid-30687805]], [[pmid-32913971]]
 - **#brain** (18 papers): [[pmid-18772890]], [[pmid-22722829]], [[pmid-22820256]], [[pmid-22832583]], [[pmid-23817572]], [[pmid-24336570]], [[pmid-25991819]], [[pmid-30643254]] *(+10 more)*
 - **#brain-metastasis** (1 paper): [[pmid-37591896]]
 - **#branched-evolution** (1 paper): [[pmid-36543146]]
 - **#branching-evolution** (1 paper): [[pmid-27749842]]
-- **#brca** (14 papers): [[msk-impact-2017]], [[pmid-21720365]], [[pmid-22722202]], [[pmid-26000489]], [[pmid-26928463]], [[pmid-28783718]], [[pmid-28825054]], [[pmid-29617662]] *(+6 more)*
+- **#brca** (14 papers): [[pmid-28481359]], [[pmid-21720365]], [[pmid-22722202]], [[pmid-26000489]], [[pmid-26928463]], [[pmid-28783718]], [[pmid-28825054]], [[pmid-29617662]] *(+6 more)*
 - **#brca-signature** (1 paper): [[pmid-26683228]]
 - **#brca1** (11 papers): [[pmid-22722201]], [[pmid-22722202]], [[pmid-23000897]], [[pmid-28825054]], [[pmid-29625049]], [[pmid-29713003]], [[pmid-31249418]], [[pmid-32025007]] *(+3 more)*
 - **#brca2** (26 papers): [[pmid-22495314]], [[pmid-22722202]], [[pmid-23000897]], [[pmid-24293293]], [[pmid-25233892]], [[pmid-25583476]], [[pmid-25855536]], [[pmid-26544944]] *(+18 more)*
@@ -1078,8 +1078,8 @@ Tags with only 1 paper are shown without paper links for brevity.
 - **#calcineurin** (1 paper): [[pmid-27158780]]
 - **#calr** (1 paper): [[pmid-24325359]]
 - **#candidate-drivers** (1 paper): [[pmid-26683228]]
-- **#canonical-drivers** (1 paper): [[msk-50k-2026]]
-- **#canonical-vs-noncanonical** (2 papers): [[msk-50k-2026]], [[pmid-31871300]]
+- **#canonical-drivers** (1 paper): [[pmid-41895280]]
+- **#canonical-vs-noncanonical** (2 papers): [[pmid-41895280]], [[pmid-31871300]]
 - **#carboplatin** (2 papers): [[pmid-26928463]], [[pmid-36001024]]
 - **#carcinogenesis** (1 paper): [[pmid-25583493]]
 - **#carcinosarcoma** (1 paper): [[pmid-25233892]]
@@ -1159,18 +1159,18 @@ Tags with only 1 paper are shown without paper links for brevity.
 - **#clinical-implementation** (1 paper): [[pmid-35585047]]
 - **#clinical-model** (1 paper): [[pmid-37980418]]
 - **#clinical-outcomes** (1 paper): [[pmid-39305899]]
-- **#clinical-pipeline** (1 paper): [[msk-impact-2017]]
+- **#clinical-pipeline** (1 paper): [[pmid-28481359]]
 - **#clinical-profiling** (1 paper): [[pmid-39214094]]
-- **#clinical-sequencing** (2 papers): [[msk-impact-2017]], [[pmid-32317181]]
+- **#clinical-sequencing** (2 papers): [[pmid-28481359]], [[pmid-32317181]]
 - **#clinical-trajectory** (1 paper): [[pmid-30537516]]
 - **#clinical-trial** (8 papers): [[pmid-28472509]], [[pmid-30867592]], [[pmid-32719455]], [[pmid-35292802]], [[pmid-35662283]], [[pmid-37769223]], [[pmid-37910594]], [[pmid-39499893]]
-- **#clinical-utility** (4 papers): [[msk-impact-2017]], [[pmid-25164765]], [[pmid-30068706]], [[pmid-35585047]]
+- **#clinical-utility** (4 papers): [[pmid-28481359]], [[pmid-25164765]], [[pmid-30068706]], [[pmid-35585047]]
 - **#cll** (3 papers): [[pmid-23415222]], [[pmid-26466571]], [[pmid-35927489]]
 - **#clonal-evolution** (67 papers): [[pmid-22495314]], [[pmid-23415222]], [[pmid-23622249]], [[pmid-23699601]], [[pmid-24145436]], [[pmid-24265153]], [[pmid-24325359]], [[pmid-24336570]] *(+59 more)*
 - **#clonal-hematopoiesis** (6 papers): [[pmid-31768066]], [[pmid-33106634]], [[pmid-34145282]], [[pmid-35078859]], [[pmid-38147626]], [[pmid-39506116]]
 - **#clonal-heterogeneity** (1 paper): [[pmid-22495314]]
 - **#clonal-selection** (1 paper): [[pmid-32220886]]
-- **#clonality** (25 papers): [[msk-50k-2026]], [[pmid-22343534]], [[pmid-23415222]], [[pmid-24030381]], [[pmid-25164765]], [[pmid-26095796]], [[pmid-27749842]], [[pmid-28196596]] *(+17 more)*
+- **#clonality** (25 papers): [[pmid-41895280]], [[pmid-22343534]], [[pmid-23415222]], [[pmid-24030381]], [[pmid-25164765]], [[pmid-26095796]], [[pmid-27749842]], [[pmid-28196596]] *(+17 more)*
 - **#clustering** (1 paper): [[pmid-39550333]]
 - **#cms** (2 papers): [[pmid-34910928]], [[pmid-39478232]]
 - **#cna** (4 papers): [[pmid-25223734]], [[pmid-26095796]], [[pmid-30068706]], [[pmid-30150660]]
@@ -1181,11 +1181,11 @@ Tags with only 1 paper are shown without paper links for brevity.
 - **#cns-lymphoma** (2 papers): [[pmid-25991819]], [[pmid-38995739]]
 - **#co-alterations** (1 paper): [[pmid-32437664]]
 - **#co-expression** (1 paper): [[pmid-30537516]]
-- **#co-mutation** (11 papers): [[msk-50k-2026]], [[pmid-23897969]], [[pmid-25223734]], [[pmid-28336552]], [[pmid-32864625]], [[pmid-35235413]], [[pmid-36493333]], [[pmid-38212634]] *(+3 more)*
+- **#co-mutation** (11 papers): [[pmid-41895280]], [[pmid-23897969]], [[pmid-25223734]], [[pmid-28336552]], [[pmid-32864625]], [[pmid-35235413]], [[pmid-36493333]], [[pmid-38212634]] *(+3 more)*
 - **#co-occurrence** (1 paper): [[pmid-29625050]]
 - **#codeletion** (1 paper): [[pmid-28472509]]
 - **#cohesin** (2 papers): [[pmid-24121792]], [[pmid-25223734]]
-- **#cohort-size** (1 paper): [[msk-50k-2026]]
+- **#cohort-size** (1 paper): [[pmid-41895280]]
 - **#colitis** (1 paper): [[pmid-36611031]]
 - **#colon** (2 papers): [[pmid-22810696]], [[pmid-25583493]]
 - **#colorectal** (18 papers): [[pmid-22810696]], [[pmid-22895193]], [[pmid-25164765]], [[pmid-25583493]], [[pmid-29316426]], [[pmid-29670109]], [[pmid-31871300]], [[pmid-32730818]] *(+10 more)*
@@ -1232,7 +1232,7 @@ Tags with only 1 paper are shown without paper links for brevity.
 - **#ddr-genes** (1 paper): [[pmid-40256659]]
 - **#ddx3x** (2 papers): [[pmid-22722829]], [[pmid-22832583]]
 - **#de-novo-metastatic** (1 paper): [[pmid-32220891]]
-- **#de-novo-resistance** (1 paper): [[msk-impact-2017]]
+- **#de-novo-resistance** (1 paper): [[pmid-28481359]]
 - **#decitabine** (1 paper): [[pmid-27959731]]
 - **#dedifferentiation** (1 paper): [[pmid-38412093]]
 - **#deletion** (2 papers): [[pmid-22522925]], [[pmid-23334666]]
@@ -1265,8 +1265,8 @@ Tags with only 1 paper are shown without paper links for brevity.
 - **#dose-response** (1 paper): [[pmid-39147831]]
 - **#double-hit** (1 paper): [[pmid-29713087]]
 - **#driver** (1 paper): [[pmid-29625050]]
-- **#driver-alterations** (2 papers): [[msk-50k-2026]], [[msk-impact-2017]]
-- **#driver-context** (56 papers): [[msk-50k-2026]], [[pmid-21798893]], [[pmid-21798897]], [[pmid-22158988]], [[pmid-22343534]], [[pmid-22495314]], [[pmid-22610119]], [[pmid-22722201]] *(+48 more)*
+- **#driver-alterations** (2 papers): [[pmid-41895280]], [[pmid-28481359]]
+- **#driver-context** (56 papers): [[pmid-41895280]], [[pmid-21798893]], [[pmid-21798897]], [[pmid-22158988]], [[pmid-22343534]], [[pmid-22495314]], [[pmid-22610119]], [[pmid-22722201]] *(+48 more)*
 - **#driver-discovery** (2 papers): [[pmid-21796119]], [[pmid-25583493]]
 - **#driver-genes** (3 papers): [[pmid-22722201]], [[pmid-34272401]], [[pmid-35487942]]
 - **#driver-mutation** (2 papers): [[pmid-26095796]], [[pmid-30150660]]
@@ -1337,7 +1337,7 @@ Tags with only 1 paper are shown without paper links for brevity.
 - **#esrp1** (1 paper): [[pmid-30537516]]
 - **#essential-thrombocythemia** (1 paper): [[pmid-24325359]]
 - **#ethnic-disparity** (1 paper): [[pmid-25583493]]
-- **#etiology** (1 paper): [[msk-50k-2026]]
+- **#etiology** (1 paper): [[pmid-41895280]]
 - **#ets** (2 papers): [[pmid-22722839]], [[pmid-23622249]]
 - **#ets-fusion** (1 paper): [[pmid-29610475]]
 - **#everolimus** (2 papers): [[pmid-21252315]], [[pmid-30687805]]
@@ -1395,14 +1395,14 @@ Tags with only 1 paper are shown without paper links for brevity.
 - **#frameshift** (2 papers): [[pmid-24325359]], [[pmid-40100215]]
 - **#fubp1** (1 paper): [[pmid-28472509]]
 - **#functional-biomarker** (1 paper): [[pmid-39499893]]
-- **#functional-class** (1 paper): [[msk-50k-2026]]
+- **#functional-class** (1 paper): [[pmid-41895280]]
 - **#functional-genomics** (1 paper): [[pmid-31249418]]
 - **#functional-precision-medicine** (1 paper): [[pmid-39305899]]
 - **#functional-redundancy** (1 paper): [[pmid-29625050]]
 - **#functional-validation** (2 papers): [[pmid-24658004]], [[pmid-39499893]]
 - **#fusion** (8 papers): [[pmid-22722202]], [[pmid-22941189]], [[pmid-24120142]], [[pmid-24185509]], [[pmid-24436047]], [[pmid-25417114]], [[pmid-26862087]], [[pmid-37980418]]
 - **#fusion-genes** (1 paper): [[pmid-22832583]]
-- **#fusion-oncogenes** (13 papers): [[msk-50k-2026]], [[msk-impact-2017]], [[pmid-22895193]], [[pmid-23817572]], [[pmid-26631609]], [[pmid-26829750]], [[pmid-29617662]], [[pmid-31871300]] *(+5 more)*
+- **#fusion-oncogenes** (13 papers): [[pmid-41895280]], [[pmid-28481359]], [[pmid-22895193]], [[pmid-23817572]], [[pmid-26631609]], [[pmid-26829750]], [[pmid-29617662]], [[pmid-31871300]] *(+5 more)*
 
 ### G
 
@@ -1440,7 +1440,7 @@ Tags with only 1 paper are shown without paper links for brevity.
 - **#gerd** (1 paper): [[pmid-23525077]]
 - **#germ-cell** (2 papers): [[pmid-27646943]], [[pmid-32897884]]
 - **#germ-cell-tumor** (1 paper): [[pmid-36862133]]
-- **#germline** (22 papers): [[msk-impact-2017]], [[pmid-23334668]], [[pmid-24658004]], [[pmid-26804919]], [[pmid-27713405]], [[pmid-28007021]], [[pmid-28825054]], [[pmid-29625049]] *(+14 more)*
+- **#germline** (22 papers): [[pmid-28481359]], [[pmid-23334668]], [[pmid-24658004]], [[pmid-26804919]], [[pmid-27713405]], [[pmid-28007021]], [[pmid-28825054]], [[pmid-29625049]] *(+14 more)*
 - **#gist** (2 papers): [[pmid-36593350]], [[pmid-37477937]]
 - **#glass** (1 paper): [[pmid-38117484]]
 - **#gleason** (2 papers): [[pmid-25024180]], [[pmid-30537516]]
@@ -1473,7 +1473,7 @@ Tags with only 1 paper are shown without paper links for brevity.
 - **#hdc** (1 paper): [[pmid-28472509]]
 - **#head-and-neck** (3 papers): [[pmid-26631609]], [[pmid-26862087]], [[pmid-35982973]]
 - **#head-neck** (2 papers): [[pmid-21798893]], [[pmid-27442865]]
-- **#health-equity** (4 papers): [[msk-50k-2026]], [[pmid-25583493]], [[pmid-34667026]], [[pmid-37651310]]
+- **#health-equity** (4 papers): [[pmid-41895280]], [[pmid-25583493]], [[pmid-34667026]], [[pmid-37651310]]
 - **#helicase-domain** (1 paper): [[pmid-24658004]]
 - **#hematologic** (1 paper): [[pmid-32897884]]
 - **#hematologic-malignancy** (1 paper): [[pmid-38147626]]
@@ -1483,7 +1483,7 @@ Tags with only 1 paper are shown without paper links for brevity.
 - **#her3** (1 paper): [[pmid-29420467]]
 - **#herc2** (1 paper): [[pmid-39975212]]
 - **#hereditary** (2 papers): [[pmid-24658004]], [[pmid-29713003]]
-- **#hereditary-cancer** (4 papers): [[msk-impact-2017]], [[pmid-30068706]], [[pmid-30687805]], [[pmid-36593350]]
+- **#hereditary-cancer** (4 papers): [[pmid-28481359]], [[pmid-30068706]], [[pmid-30687805]], [[pmid-36593350]]
 - **#heterogeneity** (3 papers): [[pmid-32220886]], [[pmid-33263939]], [[pmid-36543146]]
 - **#hgsoc** (2 papers): [[pmid-34819508]], [[pmid-39386723]]
 - **#hif** (1 paper): [[pmid-23792563]]
@@ -1499,10 +1499,10 @@ Tags with only 1 paper are shown without paper links for brevity.
 - **#histone-acetyltransferase** (1 paper): [[pmid-26168399]]
 - **#histone-methylation** (2 papers): [[pmid-21252315]], [[pmid-21796119]]
 - **#histone-modification** (2 papers): [[pmid-22820256]], [[pmid-23334668]]
-- **#hla** (6 papers): [[msk-50k-2026]], [[pmid-26359337]], [[pmid-27149842]], [[pmid-30150660]], [[pmid-33025139]], [[pmid-36723991]]
+- **#hla** (6 papers): [[pmid-41895280]], [[pmid-26359337]], [[pmid-27149842]], [[pmid-30150660]], [[pmid-33025139]], [[pmid-36723991]]
 - **#hla-a** (2 papers): [[pmid-22960745]], [[pmid-36585450]]
 - **#hla-e** (1 paper): [[pmid-39386723]]
-- **#hla-loh** (1 paper): [[msk-50k-2026]]
+- **#hla-loh** (1 paper): [[pmid-41895280]]
 - **#hmga2** (1 paper): [[pmid-29100075]]
 - **#hn-pg** (1 paper): [[pmid-40097403]]
 - **#hnsc** (3 papers): [[pmid-21798893]], [[pmid-21798897]], [[pmid-27442865]]
@@ -1510,7 +1510,7 @@ Tags with only 1 paper are shown without paper links for brevity.
 - **#homologous-recombination** (2 papers): [[pmid-21720365]], [[pmid-35504881]]
 - **#homozygous-deletion** (1 paper): [[pmid-24816253]]
 - **#hotspot-mutation** (1 paper): [[pmid-26683228]]
-- **#hotspots** (32 papers): [[msk-50k-2026]], [[pmid-21798893]], [[pmid-21798897]], [[pmid-22158988]], [[pmid-22343534]], [[pmid-22610119]], [[pmid-22722839]], [[pmid-22817889]] *(+24 more)*
+- **#hotspots** (32 papers): [[pmid-41895280]], [[pmid-21798893]], [[pmid-21798897]], [[pmid-22158988]], [[pmid-22343534]], [[pmid-22610119]], [[pmid-22722839]], [[pmid-22817889]] *(+24 more)*
 - **#hoxd13** (1 paper): [[pmid-38117484]]
 - **#hoxd8** (1 paper): [[pmid-24265153]]
 - **#hpv** (4 papers): [[pmid-21798893]], [[pmid-25631445]], [[pmid-27442865]], [[pmid-29422544]]
@@ -1530,7 +1530,7 @@ Tags with only 1 paper are shown without paper links for brevity.
 - **#icb** (2 papers): [[pmid-38630790]], [[pmid-39550333]]
 - **#icgc** (3 papers): [[pmid-22832583]], [[pmid-23103869]], [[pmid-32025007]]
 - **#ici** (4 papers): [[pmid-32437664]], [[pmid-35121644]], [[pmid-35662283]], [[pmid-36333289]]
-- **#ici-biomarker** (36 papers): [[msk-50k-2026]], [[msk-impact-2017]], [[pmid-25409260]], [[pmid-25765070]], [[pmid-26091043]], [[pmid-26359337]], [[pmid-26997480]], [[pmid-27149842]] *(+28 more)*
+- **#ici-biomarker** (36 papers): [[pmid-41895280]], [[pmid-28481359]], [[pmid-25409260]], [[pmid-25765070]], [[pmid-26091043]], [[pmid-26359337]], [[pmid-26997480]], [[pmid-27149842]] *(+28 more)*
 - **#ici-resistance** (1 paper): [[pmid-29337640]]
 - **#ici-response** (1 paper): [[pmid-35121644]]
 - **#idh** (3 papers): [[pmid-30742122]], [[pmid-31263031]], [[pmid-35649412]]
@@ -1556,7 +1556,7 @@ Tags with only 1 paper are shown without paper links for brevity.
 - **#immune** (3 papers): [[pmid-29625049]], [[pmid-35970919]], [[pmid-37990009]]
 - **#immune-checkpoint** (1 paper): [[pmid-39386479]]
 - **#immune-cold** (1 paper): [[pmid-29337640]]
-- **#immune-escape** (3 papers): [[msk-50k-2026]], [[pmid-22343534]], [[pmid-27149842]]
+- **#immune-escape** (3 papers): [[pmid-41895280]], [[pmid-22343534]], [[pmid-27149842]]
 - **#immune-evasion** (9 papers): [[pmid-21796119]], [[pmid-25583493]], [[pmid-27158780]], [[pmid-29337640]], [[pmid-29622463]], [[pmid-29713087]], [[pmid-33025139]], [[pmid-34910928]] *(+1 more)*
 - **#immune-infiltrate** (7 papers): [[pmid-26091043]], [[pmid-27149842]], [[pmid-34358469]], [[pmid-34433969]], [[pmid-37202560]], [[pmid-39386479]], [[pmid-39550333]]
 - **#immune-infiltration** (2 papers): [[pmid-33397444]], [[pmid-34910928]]
@@ -1567,7 +1567,7 @@ Tags with only 1 paper are shown without paper links for brevity.
 - **#immunogenicity** (1 paper): [[pmid-27149842]]
 - **#immunophenotyping** (1 paper): [[pmid-35121644]]
 - **#immunosuppression** (2 papers): [[pmid-34272401]], [[pmid-35121644]]
-- **#immunotherapy** (59 papers): [[msk-50k-2026]], [[msk-impact-2017]], [[pmid-22895193]], [[pmid-22960745]], [[pmid-25409260]], [[pmid-25765070]], [[pmid-26091043]], [[pmid-26359337]] *(+51 more)*
+- **#immunotherapy** (59 papers): [[pmid-41895280]], [[pmid-28481359]], [[pmid-22895193]], [[pmid-22960745]], [[pmid-25409260]], [[pmid-25765070]], [[pmid-26091043]], [[pmid-26359337]] *(+51 more)*
 - **#immunotherapy-response** (1 paper): [[pmid-32719455]]
 - **#inactivating-mutations** (1 paper): [[pmid-24185509]]
 - **#incidental-findings** (1 paper): [[pmid-36593350]]
@@ -1630,7 +1630,7 @@ Tags with only 1 paper are shown without paper links for brevity.
 - **#kiaa1549** (1 paper): [[pmid-23817572]]
 - **#kif2a** (1 paper): [[pmid-22941189]]
 - **#kinase** (1 paper): [[pmid-25583493]]
-- **#kinase-fusions** (2 papers): [[msk-impact-2017]], [[pmid-35705558]]
+- **#kinase-fusions** (2 papers): [[pmid-28481359]], [[pmid-35705558]]
 - **#kinase-hotspot** (1 paper): [[pmid-23817572]]
 - **#kinase-signaling** (1 paper): [[pmid-25730765]]
 - **#kit** (4 papers): [[pmid-20601955]], [[pmid-31068700]], [[pmid-36593350]], [[pmid-37477937]]
@@ -1716,10 +1716,10 @@ Tags with only 1 paper are shown without paper links for brevity.
 - **#map2k4** (1 paper): [[pmid-22522925]]
 - **#map3k1** (4 papers): [[pmid-22722201]], [[pmid-22722202]], [[pmid-27161491]], [[pmid-31552290]]
 - **#mapk** (32 papers): [[pmid-18772890]], [[pmid-18948947]], [[pmid-20601955]], [[pmid-22817889]], [[pmid-22941189]], [[pmid-23334668]], [[pmid-23817572]], [[pmid-23897969]] *(+24 more)*
-- **#mapk-pathway** (1 paper): [[msk-50k-2026]]
+- **#mapk-pathway** (1 paper): [[pmid-41895280]]
 - **#mapk-wt** (1 paper): [[pmid-39753968]]
 - **#mapk1** (1 paper): [[pmid-26551667]]
-- **#matched-normal** (2 papers): [[msk-impact-2017]], [[pmid-34145282]]
+- **#matched-normal** (2 papers): [[pmid-28481359]], [[pmid-34145282]]
 - **#matched-therapy** (1 paper): [[pmid-28336552]]
 - **#mc1r** (1 paper): [[pmid-39975212]]
 - **#mc3** (1 paper): [[pmid-29596782]]
@@ -1754,9 +1754,9 @@ Tags with only 1 paper are shown without paper links for brevity.
 - **#metabric** (1 paper): [[pmid-27161491]]
 - **#metaplastic** (1 paper): [[pmid-33863915]]
 - **#metastasis** (8 papers): [[pmid-25024180]], [[pmid-29610475]], [[pmid-30867590]], [[pmid-32719455]], [[pmid-34290393]], [[pmid-36543146]], [[pmid-37315267]], [[pmid-40097403]]
-- **#metastatic** (3 papers): [[msk-impact-2017]], [[pmid-26928463]], [[pmid-32220891]]
+- **#metastatic** (3 papers): [[pmid-28481359]], [[pmid-26928463]], [[pmid-32220891]]
 - **#metastatic-burden** (1 paper): [[pmid-32220891]]
-- **#metastatic-enrichment** (30 papers): [[msk-impact-2017]], [[pmid-22722839]], [[pmid-23685749]], [[pmid-25164765]], [[pmid-25583476]], [[pmid-25589618]], [[pmid-27442865]], [[pmid-27749842]] *(+22 more)*
+- **#metastatic-enrichment** (30 papers): [[pmid-28481359]], [[pmid-22722839]], [[pmid-23685749]], [[pmid-25164765]], [[pmid-25583476]], [[pmid-25589618]], [[pmid-27442865]], [[pmid-27749842]] *(+22 more)*
 - **#metastatic-patterns** (2 papers): [[pmid-35120664]], [[pmid-37084736]]
 - **#methods** (1 paper): [[pmid-29596782]]
 - **#methylation** (27 papers): [[pmid-18772890]], [[pmid-22832583]], [[pmid-23634996]], [[pmid-24120142]], [[pmid-24816253]], [[pmid-25631445]], [[pmid-26451490]], [[pmid-26466568]] *(+19 more)*
@@ -1798,10 +1798,10 @@ Tags with only 1 paper are shown without paper links for brevity.
 - **#mre11a** (1 paper): [[pmid-29610475]]
 - **#mrna** (1 paper): [[pmid-22895193]]
 - **#mscore** (1 paper): [[pmid-35487942]]
-- **#msi** (54 papers): [[msk-50k-2026]], [[msk-impact-2017]], [[pmid-22810696]], [[pmid-22895193]], [[pmid-23636398]], [[pmid-25079317]], [[pmid-25233892]], [[pmid-25765070]] *(+46 more)*
+- **#msi** (54 papers): [[pmid-41895280]], [[pmid-28481359]], [[pmid-22810696]], [[pmid-22895193]], [[pmid-23636398]], [[pmid-25079317]], [[pmid-25233892]], [[pmid-25765070]] *(+46 more)*
 - **#msi-h** (2 papers): [[pmid-29850653]], [[pmid-35235413]]
 - **#msk-access** (5 papers): [[pmid-34059130]], [[pmid-36357680]], [[pmid-36543146]], [[pmid-37769223]], [[pmid-39147831]]
-- **#msk-impact** (35 papers): [[msk-50k-2026]], [[msk-impact-2017]], [[pmid-28336552]], [[pmid-28472509]], [[pmid-28825054]], [[pmid-30427539]], [[pmid-30643254]], [[pmid-30675060]] *(+27 more)*
+- **#msk-impact** (35 papers): [[pmid-41895280]], [[pmid-28481359]], [[pmid-28336552]], [[pmid-28472509]], [[pmid-28825054]], [[pmid-30427539]], [[pmid-30643254]], [[pmid-30675060]] *(+27 more)*
 - **#mss** (7 papers): [[pmid-22895193]], [[pmid-25583493]], [[pmid-29316426]], [[pmid-30068706]], [[pmid-30150660]], [[pmid-34910928]], [[pmid-39478232]]
 - **#mss-vs-msi** (1 paper): [[pmid-34910928]]
 - **#mtap** (1 paper): [[pmid-22522925]]
@@ -1824,14 +1824,14 @@ Tags with only 1 paper are shown without paper links for brevity.
 - **#mutation-clearance** (1 paper): [[pmid-27959731]]
 - **#mutation-rate** (2 papers): [[pmid-22832583]], [[pmid-26095796]]
 - **#mutation-signature** (1 paper): [[pmid-22941189]]
-- **#mutation-signatures** (62 papers): [[msk-impact-2017]], [[pmid-21798897]], [[pmid-22622578]], [[pmid-22722201]], [[pmid-22810696]], [[pmid-22817889]], [[pmid-22842228]], [[pmid-22941188]] *(+54 more)*
+- **#mutation-signatures** (62 papers): [[pmid-28481359]], [[pmid-21798897]], [[pmid-22622578]], [[pmid-22722201]], [[pmid-22810696]], [[pmid-22817889]], [[pmid-22842228]], [[pmid-22941188]] *(+54 more)*
 - **#mutation-spectrum** (1 paper): [[pmid-22895193]]
 - **#mutational-processes** (1 paper): [[pmid-22722201]]
 - **#mutational-signature** (1 paper): [[pmid-23525077]]
-- **#mutational-signatures** (9 papers): [[msk-50k-2026]], [[pmid-29713087]], [[pmid-30150660]], [[pmid-30537516]], [[pmid-32025007]], [[pmid-33863915]], [[pmid-34290393]], [[pmid-36723991]] *(+1 more)*
+- **#mutational-signatures** (9 papers): [[pmid-41895280]], [[pmid-29713087]], [[pmid-30150660]], [[pmid-30537516]], [[pmid-32025007]], [[pmid-33863915]], [[pmid-34290393]], [[pmid-36723991]] *(+1 more)*
 - **#mutational-spectrum** (1 paper): [[pmid-22495314]]
 - **#mutsigcv** (1 paper): [[pmid-24434212]]
-- **#mutual-exclusivity** (14 papers): [[msk-50k-2026]], [[pmid-21252315]], [[pmid-22722202]], [[pmid-22817889]], [[pmid-22895193]], [[pmid-23817572]], [[pmid-24120142]], [[pmid-25223734]] *(+6 more)*
+- **#mutual-exclusivity** (14 papers): [[pmid-41895280]], [[pmid-21252315]], [[pmid-22722202]], [[pmid-22817889]], [[pmid-22895193]], [[pmid-23817572]], [[pmid-24120142]], [[pmid-25223734]] *(+6 more)*
 - **#mutyh** (2 papers): [[pmid-35585047]], [[pmid-36593350]]
 - **#myb** (4 papers): [[pmid-23685749]], [[pmid-26095796]], [[pmid-26631609]], [[pmid-26862087]]
 - **#myb-nfib** (1 paper): [[pmid-26095796]]
@@ -1861,7 +1861,7 @@ Tags with only 1 paper are shown without paper links for brevity.
 - **#near-haploid** (1 paper): [[pmid-23334668]]
 - **#negative-selection** (1 paper): [[pmid-22343534]]
 - **#neoadjuvant** (5 papers): [[pmid-25096233]], [[pmid-30742122]], [[pmid-35377946]], [[pmid-35970919]], [[pmid-39499893]]
-- **#neoantigen** (10 papers): [[msk-50k-2026]], [[pmid-25765070]], [[pmid-26359337]], [[pmid-27149842]], [[pmid-27158780]], [[pmid-29033130]], [[pmid-29617662]], [[pmid-30150660]] *(+2 more)*
+- **#neoantigen** (10 papers): [[pmid-41895280]], [[pmid-25765070]], [[pmid-26359337]], [[pmid-27149842]], [[pmid-27158780]], [[pmid-29033130]], [[pmid-29617662]], [[pmid-30150660]] *(+2 more)*
 - **#nepc** (1 paper): [[pmid-38488813]]
 - **#ner** (3 papers): [[pmid-22722201]], [[pmid-25096233]], [[pmid-39499893]]
 - **#ner-impairment** (1 paper): [[pmid-39499893]]
@@ -1924,7 +1924,7 @@ Tags with only 1 paper are shown without paper links for brevity.
 - **#oncofusion** (1 paper): [[pmid-35585047]]
 - **#oncogene** (3 papers): [[pmid-22941189]], [[pmid-26168399]], [[pmid-30537516]]
 - **#oncogenic-processes** (1 paper): [[pmid-29625049]]
-- **#oncokb** (5 papers): [[msk-impact-2017]], [[pmid-28336552]], [[pmid-29625050]], [[pmid-35487942]], [[pmid-39289779]]
+- **#oncokb** (5 papers): [[pmid-28481359]], [[pmid-28336552]], [[pmid-29625050]], [[pmid-35487942]], [[pmid-39289779]]
 - **#open-science** (1 paper): [[pmid-29596782]]
 - **#oral-cavity** (1 paper): [[pmid-25631445]]
 - **#organoid** (2 papers): [[pmid-29625057]], [[pmid-31249418]]
@@ -1949,10 +1949,10 @@ Tags with only 1 paper are shown without paper links for brevity.
 - **#pak2** (1 paper): [[pmid-34534465]]
 - **#palb2** (2 papers): [[pmid-24293293]], [[pmid-29610475]]
 - **#pam50** (2 papers): [[pmid-22495314]], [[pmid-22522925]]
-- **#pan-cancer** (8 papers): [[msk-50k-2026]], [[msk-impact-2017]], [[pmid-22460905]], [[pmid-29625050]], [[pmid-32214244]], [[pmid-35292802]], [[pmid-36001024]], [[pmid-39147831]]
+- **#pan-cancer** (8 papers): [[pmid-41895280]], [[pmid-28481359]], [[pmid-22460905]], [[pmid-29625050]], [[pmid-32214244]], [[pmid-35292802]], [[pmid-36001024]], [[pmid-39147831]]
 - **#pan-cancer-clinical** (1 paper): [[pmid-29625055]]
 - **#pan-cancer-comparison** (1 paper): [[pmid-25024180]]
-- **#pan-cancer-map** (32 papers): [[msk-50k-2026]], [[msk-impact-2017]], [[pmid-22460905]], [[pmid-23000897]], [[pmid-25079317]], [[pmid-26451490]], [[pmid-26804919]], [[pmid-28007021]] *(+24 more)*
+- **#pan-cancer-map** (32 papers): [[pmid-41895280]], [[pmid-28481359]], [[pmid-22460905]], [[pmid-23000897]], [[pmid-25079317]], [[pmid-26451490]], [[pmid-26804919]], [[pmid-28007021]] *(+24 more)*
 - **#pancanatlas** (1 paper): [[pmid-29596782]]
 - **#pancreatic** (8 papers): [[pmid-22158988]], [[pmid-23103869]], [[pmid-24293293]], [[pmid-25855536]], [[pmid-31249418]], [[pmid-34534465]], [[pmid-35662283]], [[pmid-39214094]]
 - **#pancreatic-cyst** (1 paper): [[pmid-22158988]]
@@ -2025,7 +2025,7 @@ Tags with only 1 paper are shown without paper links for brevity.
 - **#pms2** (1 paper): [[pmid-35585047]]
 - **#pnet** (2 papers): [[pmid-21252315]], [[pmid-30687805]]
 - **#pold1** (2 papers): [[pmid-35487942]], [[pmid-36001024]]
-- **#pole** (7 papers): [[msk-impact-2017]], [[pmid-23636398]], [[pmid-27149842]], [[pmid-28485815]], [[pmid-30068706]], [[pmid-35487942]], [[pmid-37651310]]
+- **#pole** (7 papers): [[pmid-28481359]], [[pmid-23636398]], [[pmid-27149842]], [[pmid-28485815]], [[pmid-30068706]], [[pmid-35487942]], [[pmid-37651310]]
 - **#polyclonal-resistance** (2 papers): [[pmid-24265153]], [[pmid-35304457]]
 - **#polyclonal-seeding** (1 paper): [[pmid-37169874]]
 - **#polycythemia-vera** (1 paper): [[pmid-24325359]]
@@ -2042,7 +2042,7 @@ Tags with only 1 paper are shown without paper links for brevity.
 - **#pre-treatment** (1 paper): [[pmid-25024180]]
 - **#preanalytic** (1 paper): [[pmid-39289779]]
 - **#precision-medicine** (3 papers): [[pmid-28007021]], [[pmid-29625057]], [[pmid-32719455]]
-- **#precision-oncology** (10 papers): [[msk-impact-2017]], [[pmid-22460905]], [[pmid-29337640]], [[pmid-29625050]], [[pmid-31249418]], [[pmid-31263031]], [[pmid-35292802]], [[pmid-36543146]] *(+2 more)*
+- **#precision-oncology** (10 papers): [[pmid-28481359]], [[pmid-22460905]], [[pmid-29337640]], [[pmid-29625050]], [[pmid-31249418]], [[pmid-31263031]], [[pmid-35292802]], [[pmid-36543146]] *(+2 more)*
 - **#preclinical** (1 paper): [[pmid-23897969]]
 - **#predictive** (1 paper): [[pmid-32437664]]
 - **#premenopausal** (1 paper): [[pmid-29713003]]
@@ -2059,7 +2059,7 @@ Tags with only 1 paper are shown without paper links for brevity.
 - **#prognostic-biomarker** (3 papers): [[pmid-25024180]], [[pmid-30068706]], [[pmid-40256659]]
 - **#prognostic-markers** (1 paper): [[pmid-27776115]]
 - **#progression** (3 papers): [[pmid-24816253]], [[pmid-32220886]], [[pmid-33263939]]
-- **#promoter-mutations** (1 paper): [[msk-impact-2017]]
+- **#promoter-mutations** (1 paper): [[pmid-28481359]]
 - **#proneural** (1 paper): [[pmid-24120142]]
 - **#prospective** (1 paper): [[pmid-28336552]]
 - **#prospective-biomarker** (1 paper): [[pmid-39499893]]
@@ -2101,7 +2101,7 @@ Tags with only 1 paper are shown without paper links for brevity.
 - **#rag-mediated** (1 paper): [[pmid-27776115]]
 - **#rapid-autopsy** (1 paper): [[pmid-26928463]]
 - **#rare-cancer** (4 papers): [[pmid-24658004]], [[pmid-26862087]], [[pmid-36862133]], [[pmid-39305899]]
-- **#rare-drivers** (2 papers): [[msk-50k-2026]], [[pmid-29610475]]
+- **#rare-drivers** (2 papers): [[pmid-41895280]], [[pmid-29610475]]
 - **#rare-lesion** (1 paper): [[pmid-33263939]]
 - **#ras** (6 papers): [[pmid-23334668]], [[pmid-26359337]], [[pmid-26878173]], [[pmid-29625050]], [[pmid-34819518]], [[pmid-38412093]]
 - **#ras-mapk** (2 papers): [[pmid-22343534]], [[pmid-33025139]]
@@ -2151,7 +2151,7 @@ Tags with only 1 paper are shown without paper links for brevity.
 - **#rspo2** (1 paper): [[pmid-22895193]]
 - **#rspo3** (1 paper): [[pmid-22895193]]
 - **#rtk** (9 papers): [[pmid-18772890]], [[pmid-24120142]], [[pmid-24436047]], [[pmid-25583493]], [[pmid-27158780]], [[pmid-29617662]], [[pmid-29625050]], [[pmid-30427539]] *(+1 more)*
-- **#rtk-pathway** (1 paper): [[msk-50k-2026]]
+- **#rtk-pathway** (1 paper): [[pmid-41895280]]
 - **#rtk-signaling** (1 paper): [[pmid-23334668]]
 - **#runx1** (2 papers): [[pmid-22722202]], [[pmid-38147626]]
 
@@ -2261,7 +2261,7 @@ Tags with only 1 paper are shown without paper links for brevity.
 - **#surrogate-biomarker** (1 paper): [[pmid-38488807]]
 - **#surrogate-endpoint** (1 paper): [[pmid-37910594]]
 - **#surveillance** (2 papers): [[pmid-24816253]], [[pmid-34910928]]
-- **#survival** (221 papers): [[msk-impact-2017]], [[pmid-18772890]], [[pmid-18948947]], [[pmid-20601955]], [[pmid-21252315]], [[pmid-21720365]], [[pmid-21798893]], [[pmid-21798897]] *(+213 more)*
+- **#survival** (221 papers): [[pmid-28481359]], [[pmid-18772890]], [[pmid-18948947]], [[pmid-20601955]], [[pmid-21252315]], [[pmid-21720365]], [[pmid-21798893]], [[pmid-21798897]] *(+213 more)*
 - **#suz12** (1 paper): [[pmid-25240281]]
 - **#sv** (1 paper): [[pmid-30537516]]
 - **#swi** (2 papers): [[pmid-23525077]], [[pmid-24185509]]
@@ -2292,14 +2292,14 @@ Tags with only 1 paper are shown without paper links for brevity.
 - **#tcga** (23 papers): [[pmid-18772890]], [[pmid-21720365]], [[pmid-22810696]], [[pmid-23000897]], [[pmid-23634996]], [[pmid-23636398]], [[pmid-24476821]], [[pmid-25079317]] *(+15 more)*
 - **#tcga-comparison** (1 paper): [[pmid-39499893]]
 - **#tcr** (3 papers): [[pmid-22522925]], [[pmid-26551667]], [[pmid-29033130]]
-- **#tcr-therapy** (1 paper): [[msk-50k-2026]]
-- **#tcr-therapy-resistance** (1 paper): [[msk-50k-2026]]
+- **#tcr-therapy** (1 paper): [[pmid-41895280]]
+- **#tcr-therapy-resistance** (1 paper): [[pmid-41895280]]
 - **#technical-benchmarking** (1 paper): [[pmid-35585047]]
 - **#telomerase** (1 paper): [[pmid-26466568]]
 - **#telomere** (4 papers): [[pmid-21252315]], [[pmid-24120142]], [[pmid-32025007]], [[pmid-40097403]]
 - **#temozolomide** (4 papers): [[pmid-18772890]], [[pmid-24120142]], [[pmid-24336570]], [[pmid-38117484]]
 - **#temporal-ordering** (1 paper): [[pmid-23415222]]
-- **#tert** (31 papers): [[msk-impact-2017]], [[pmid-24120142]], [[pmid-25155756]], [[pmid-25417114]], [[pmid-26466568]], [[pmid-26824661]], [[pmid-26878173]], [[pmid-27442865]] *(+23 more)*
+- **#tert** (31 papers): [[pmid-28481359]], [[pmid-24120142]], [[pmid-25155756]], [[pmid-25417114]], [[pmid-26466568]], [[pmid-26824661]], [[pmid-26878173]], [[pmid-27442865]] *(+23 more)*
 - **#tet** (1 paper): [[pmid-33025139]]
 - **#tet2** (7 papers): [[pmid-22895193]], [[pmid-24030381]], [[pmid-24325359]], [[pmid-26551667]], [[pmid-31768066]], [[pmid-37078708]], [[pmid-38147626]]
 - **#tet3** (1 paper): [[pmid-22895193]]
@@ -2318,9 +2318,9 @@ Tags with only 1 paper are shown without paper links for brevity.
 - **#til** (2 papers): [[pmid-29713003]], [[pmid-32719455]]
 - **#tils** (2 papers): [[pmid-27149842]], [[pmid-38630790]]
 - **#tim3** (1 paper): [[pmid-29100075]]
-- **#tissue-context** (1 paper): [[msk-50k-2026]]
-- **#tissue-specificity** (6 papers): [[msk-50k-2026]], [[pmid-22817889]], [[pmid-24974848]], [[pmid-25991819]], [[pmid-27158780]], [[pmid-37350195]]
-- **#tmb** (49 papers): [[msk-50k-2026]], [[msk-impact-2017]], [[pmid-24974848]], [[pmid-25096233]], [[pmid-25765070]], [[pmid-26091043]], [[pmid-26095796]], [[pmid-26359337]] *(+41 more)*
+- **#tissue-context** (1 paper): [[pmid-41895280]]
+- **#tissue-specificity** (6 papers): [[pmid-41895280]], [[pmid-22817889]], [[pmid-24974848]], [[pmid-25991819]], [[pmid-27158780]], [[pmid-37350195]]
+- **#tmb** (49 papers): [[pmid-41895280]], [[pmid-28481359]], [[pmid-24974848]], [[pmid-25096233]], [[pmid-25765070]], [[pmid-26091043]], [[pmid-26095796]], [[pmid-26359337]] *(+41 more)*
 - **#tme** (4 papers): [[pmid-29625049]], [[pmid-29713003]], [[pmid-30742122]], [[pmid-38653864]]
 - **#tmprss2** (3 papers): [[pmid-23622249]], [[pmid-29617662]], [[pmid-30537516]]
 - **#tmprss2-erg** (2 papers): [[pmid-22722839]], [[pmid-26928463]]
@@ -2345,7 +2345,7 @@ Tags with only 1 paper are shown without paper links for brevity.
 - **#trastuzumab** (2 papers): [[pmid-24816253]], [[pmid-32437664]]
 - **#treatment-outcome** (1 paper): [[pmid-39499893]]
 - **#treatment-refractory** (1 paper): [[pmid-38758238]]
-- **#treatment-resistance** (46 papers): [[msk-impact-2017]], [[pmid-18772890]], [[pmid-22941188]], [[pmid-23415222]], [[pmid-23897969]], [[pmid-24336570]], [[pmid-25164765]], [[pmid-26000489]] *(+38 more)*
+- **#treatment-resistance** (46 papers): [[pmid-28481359]], [[pmid-18772890]], [[pmid-22941188]], [[pmid-23415222]], [[pmid-23897969]], [[pmid-24336570]], [[pmid-25164765]], [[pmid-26000489]] *(+38 more)*
 - **#treatment-response** (18 papers): [[pmid-24145436]], [[pmid-26928463]], [[pmid-29657128]], [[pmid-30290956]], [[pmid-31263031]], [[pmid-31552290]], [[pmid-31748746]], [[pmid-32913971]] *(+10 more)*
 - **#treg** (1 paper): [[pmid-35121644]]
 - **#triple-negative** (5 papers): [[pmid-22722202]], [[pmid-32719455]], [[pmid-33863915]], [[pmid-35121644]], [[pmid-36001024]]
@@ -2355,9 +2355,9 @@ Tags with only 1 paper are shown without paper links for brevity.
 - **#trop2** (1 paper): [[pmid-39478232]]
 - **#tsc1** (4 papers): [[pmid-18948947]], [[pmid-23897969]], [[pmid-25155756]], [[pmid-36543146]]
 - **#tsc2** (4 papers): [[pmid-21252315]], [[pmid-25155756]], [[pmid-30687805]], [[pmid-37769223]]
-- **#tsg** (1 paper): [[msk-50k-2026]]
+- **#tsg** (1 paper): [[pmid-41895280]]
 - **#tsp** (1 paper): [[pmid-18948947]]
-- **#tumor-agnostic** (4 papers): [[msk-50k-2026]], [[msk-impact-2017]], [[pmid-31871300]], [[pmid-39746944]]
+- **#tumor-agnostic** (4 papers): [[pmid-41895280]], [[pmid-28481359]], [[pmid-31871300]], [[pmid-39746944]]
 - **#tumor-evolution** (6 papers): [[pmid-26683228]], [[pmid-29316426]], [[pmid-30675060]], [[pmid-31263031]], [[pmid-38412093]], [[pmid-38488807]]
 - **#tumor-fraction** (1 paper): [[pmid-34059130]]
 - **#tumor-heterogeneity** (11 papers): [[pmid-26928463]], [[pmid-29625057]], [[pmid-31768066]], [[pmid-32437664]], [[pmid-33025139]], [[pmid-34290393]], [[pmid-34910928]], [[pmid-36357680]] *(+3 more)*
@@ -2379,7 +2379,7 @@ Tags with only 1 paper are shown without paper links for brevity.
 - **#u2af1** (1 paper): [[pmid-29610475]]
 - **#ubiquitin** (2 papers): [[pmid-22158988]], [[pmid-29610475]]
 - **#umbrella-trial** (1 paper): [[pmid-32719455]]
-- **#universal-screening** (1 paper): [[msk-50k-2026]]
+- **#universal-screening** (1 paper): [[pmid-41895280]]
 - **#unknown-primary** (1 paper): [[pmid-33509808]]
 - **#upper-tract** (3 papers): [[pmid-26278805]], [[pmid-32332851]], [[pmid-39550333]]
 - **#ups** (1 paper): [[pmid-29100075]]
