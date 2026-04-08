@@ -106,24 +106,92 @@ This file is the cross-paper concept index. After processing new papers, update 
 - New concept tags with paper links (Obsidian `[[pmid-XXXXX]]` wiki-link format)
 - New cancer type groups if applicable
 
-## Reproducible figures — cBioPortal views
+## Reproducible figures — cBioPortal Navigator MCP
 
-When identifying which paper figures are reproducible, use these views:
+Use the **cBioPortal Navigator MCP** at `https://mcp.cbioportal.org/navigator/mcp` to generate exact, working URLs for reproducible figures. Configure it as:
 
-| View | URL pattern | Best for |
-|------|-------------|---------|
-| **OncoPrint** | `/results/oncoprint?study_id=…&gene_list=…` | Co-mutation across genes/samples |
-| **Survival** | ResultsView → Comparison → Survival tab | KM curves for altered vs unaltered |
-| **Cancer Types Summary** | `/results/cancerTypesSummary` | Alteration frequency by cancer type |
-| **Mutual Exclusivity** | `/results/mutualExclusivity` | Co-occurrence/exclusivity tables |
-| **Mutations tab** | `/results/mutations` | Lollipop plots, VAF distributions |
-| **Plots tab** | `/results/plots` or Study View → Plots | Scatter/box plots of two variables |
-| **Group Comparison** | `/comparison` | Any two-group comparison (survival, enrichments, clinical) |
-| **Study View** | `/study?id=…` | Cohort-level summaries, filters, clinical distributions |
+```json
+{
+  "mcpServers": {
+    "cbioportal-navigator": {
+      "url": "https://mcp.cbioportal.org/navigator/mcp"
+    }
+  }
+}
+```
 
-Note: The [cBioPortal Navigator](https://github.com/fuzhaoyuan/cbioportal-navigator) MCP can generate exact URLs for complex filtered queries.
+Or call it directly via HTTP (Streamable HTTP transport):
+```bash
+curl -s -X POST https://mcp.cbioportal.org/navigator/mcp \
+  -H "Content-Type: application/json" \
+  -H "Accept: application/json, text/event-stream" \
+  -d '{"jsonrpc":"2.0","id":1,"method":"tools/call","params":{"name":"navigate_to_results_view","arguments":{
+    "studyIds": ["msk_impact_2017"],
+    "genes": ["TP53","KRAS","BRAF"],
+    "tab": "oncoprint"
+  }}}'
+```
 
-## Key cBioPortal facts
+### Available Navigator tools
+
+| Tool | Use for |
+|------|---------|
+| `resolve_and_route` | Resolve study IDs from keywords, check available profiles/tabs |
+| `navigate_to_results_view` | OncoPrint, Survival, Cancer Types Summary, Mutations, Structural Variants, Mutual Exclusivity, Plots, Comparison tabs |
+| `navigate_to_study_view` | Study View with filters and Plots tab (X/Y clinical attributes) |
+| `navigate_to_group_comparison` | Group Comparison — any two groups (clinical attribute, gene alteration) |
+| `navigate_to_patient_view` | Individual patient pages |
+| `get_studyviewfilter_options` | Discover available clinical attributes and filter options for a study |
+
+### URL generation examples
+
+**OncoPrint** (top altered genes):
+```json
+{"name": "navigate_to_results_view", "arguments": {
+  "studyIds": ["msk_impact_2017"],
+  "genes": ["TP53", "KRAS", "PIK3CA"],
+  "tab": "oncoprint"
+}}
+```
+
+**Survival** (altered vs unaltered):
+```json
+{"name": "navigate_to_results_view", "arguments": {
+  "studyIds": ["msk_impact_2017"],
+  "genes": ["TERT"],
+  "tab": "comparison/survival"
+}}
+```
+
+**Study View Plots** (TMB by cancer type):
+```json
+{"name": "navigate_to_study_view", "arguments": {
+  "studyIds": ["msk_impact_2017"],
+  "tab": "plots",
+  "plotsHorzSelection": {"dataType": "clinical_attribute", "selectedDataSourceOption": "CANCER_TYPE_DETAILED"},
+  "plotsVertSelection": {"dataType": "clinical_attribute", "selectedDataSourceOption": "TMB_NONSYNONYMOUS"}
+}}
+```
+
+**Group Comparison** (two cancer types):
+```json
+{"name": "navigate_to_group_comparison", "arguments": {
+  "studyIds": ["msk_impact_2017"],
+  "groups": [
+    {"name": "Primary", "studyViewFilter": {"clinicalDataFilters": [{"attributeId": "SAMPLE_TYPE", "values": [{"value": "Primary"}]}]}},
+    {"name": "Metastasis", "studyViewFilter": {"clinicalDataFilters": [{"attributeId": "SAMPLE_TYPE", "values": [{"value": "Metastasis"}]}]}}
+  ],
+  "tab": "survival"
+}}
+```
+
+### Available cBioPortal views/tabs
+
+- **Results View**: `oncoprint` · `cancerTypesSummary` · `mutualExclusivity` · `plots` · `mutations` · `structuralVariants` · `coexpression` · `comparison` · `comparison/survival` · `comparison/clinical` · `comparison/alterations` · `comparison/mrna` · `comparison/protein` · `pathways`
+- **Study View**: `summary` · `clinicalData` · `cnSegments` · `plots`
+- **Group Comparison**: `overlap` · `clinical` · `survival` · `alterations` · `mutations` · `mrna` · `protein` · `dna_methylation`
+
+
 
 - Public URL: https://www.cbioportal.org
 - API: https://www.cbioportal.org/api
