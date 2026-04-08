@@ -1,0 +1,1899 @@
+{
+  "18772890": {
+    "status": "done",
+    "filename": "Comprehensive genomic characterization defines human glioblastoma genes and core pathways (PMID18772890).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2671642/"
+  },
+  "18948947": {
+    "status": "done",
+    "filename": "Somatic mutations affect key pathways in lung adenocarcinoma (PMID18948947).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2694412/"
+  },
+  "20579941": {
+    "status": "done",
+    "filename": "Integrative genomic profiling of human prostate cancer (PMID20579941).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3198787/"
+  },
+  "20601955": {
+    "status": "done",
+    "filename": "Subtype-specific genomic alterations define new targets for soft-tissue sarcoma therapy (PMID20601955).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2911503/"
+  },
+  "21252315": {
+    "status": "done",
+    "filename": "DAXXATRX MEN1 and mTOR pathway genes are frequently altered in pancreatic neuroendocrine tumors (PMID21252315).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3144496/"
+  },
+  "21720365": {
+    "status": "done",
+    "filename": "Integrated genomic analyses of ovarian carcinoma (PMID21720365).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3163504/"
+  },
+  "21796119": {
+    "status": "done",
+    "filename": "Frequent mutation of histone-modifying genes in non-Hodgkin lymphoma (PMID21796119).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3210554/"
+  },
+  "21798893": {
+    "status": "done",
+    "filename": "The mutational landscape of head and neck squamous cell carcinoma (PMID21798893).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3415217/"
+  },
+  "21798897": {
+    "status": "done",
+    "filename": "Exome sequencing of head and neck squamous cell carcinoma reveals inactivating mutations in NOTCH1 (PMID21798897).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3162986/"
+  },
+  "21909114": {
+    "status": "no-pmc"
+  },
+  "22037554": {
+    "status": "no-pmc"
+  },
+  "22138691": {
+    "status": "no-pmc"
+  },
+  "22158541": {
+    "status": "no-pmc"
+  },
+  "22158988": {
+    "status": "done",
+    "filename": "Whole-exome sequencing of neoplastic cysts of the pancreas reveals recurrent mutations in components of ubiquitin-depend (PMID22158988).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3248495/"
+  },
+  "22343534": {
+    "status": "done",
+    "filename": "Discovery and prioritization of somatic mutations in diffuse large B-cell lymphoma DLBCL by whole-exome sequencing (PMID22343534).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3309757/"
+  },
+  "22367537": {
+    "status": "no-pmc"
+  },
+  "22460905": {
+    "status": "done",
+    "filename": "The Cancer Cell Line Encyclopedia enables predictive modelling of anticancer drug sensitivity (PMID22460905).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3320027/"
+  },
+  "22495314": {
+    "status": "done",
+    "filename": "The clonal and mutational evolution spectrum of primary triple-negative breast cancers (PMID22495314).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3863681/"
+  },
+  "22522925": {
+    "status": "done",
+    "filename": "The genomic and transcriptomic architecture of 2000 breast tumours reveals novel subgroups (PMID22522925).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3440846/"
+  },
+  "22561520": {
+    "status": "no-pmc"
+  },
+  "22610119": {
+    "status": "done",
+    "filename": "Exome sequencing identifies recurrent SPOP FOXA1 and MED12 mutations in prostate cancer (PMID22610119).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3673022/"
+  },
+  "22622578": {
+    "status": "done",
+    "filename": "Melanoma genome sequencing reveals frequent PREX2 mutations (PMID22622578).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3367798/"
+  },
+  "22634756": {
+    "status": "no-pmc"
+  },
+  "22722201": {
+    "status": "done",
+    "filename": "The landscape of cancer genes and mutational processes in breast cancer (PMID22722201).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3428862/"
+  },
+  "22722202": {
+    "status": "done",
+    "filename": "Sequence analysis of mutations and translocations across breast cancer subtypes (PMID22722202).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4148686/"
+  },
+  "22722829": {
+    "status": "done",
+    "filename": "Novel mutations target distinct subgroups of medulloblastoma (PMID22722829).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3412905/"
+  },
+  "22722839": {
+    "status": "done",
+    "filename": "The mutational landscape of lethal castration-resistant prostate cancer (PMID22722839).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3396711/"
+  },
+  "22802077": {
+    "status": "done",
+    "filename": "CellMiner a web-based suite of genomic and pharmacologic tools to explore transcript and drug patterns in the NCI-60 cel (PMID22802077).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3399763/"
+  },
+  "22810696": {
+    "status": "done",
+    "filename": "Comprehensive molecular characterization of human colon and rectal cancer (PMID22810696).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3401966/"
+  },
+  "22817889": {
+    "status": "done",
+    "filename": "A landscape of driver mutations in melanoma (PMID22817889).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3600117/"
+  },
+  "22820256": {
+    "status": "done",
+    "filename": "Medulloblastoma exome sequencing uncovers subtype-specific somatic mutations (PMID22820256).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3413789/"
+  },
+  "22832583": {
+    "status": "done",
+    "filename": "Dissecting the genomic complexity underlying medulloblastoma (PMID22832583).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3662966/"
+  },
+  "22842228": {
+    "status": "done",
+    "filename": "Exome sequencing identifies recurrent somatic RAC1 mutations in melanoma (PMID22842228).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3432702/"
+  },
+  "22895193": {
+    "status": "done",
+    "filename": "Recurrent R-spondin fusions in colon cancer (PMID22895193).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3690621/"
+  },
+  "22941188": {
+    "status": "done",
+    "filename": "Integrative genome analyses identify key somatic driver mutations of small-cell lung cancer (PMID22941188).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4915822/"
+  },
+  "22941189": {
+    "status": "done",
+    "filename": "Comprehensive genomic analysis identifies SOX2 as a frequently amplified gene in small-cell lung cancer (PMID22941189).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3557461/"
+  },
+  "22960745": {
+    "status": "done",
+    "filename": "Comprehensive genomic characterization of squamous cell lung cancers (PMID22960745).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3466113/"
+  },
+  "22980975": {
+    "status": "done",
+    "filename": "Mapping the hallmarks of lung adenocarcinoma with massively parallel sequencing (PMID22980975).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3557932/"
+  },
+  "23000897": {
+    "status": "done",
+    "filename": "Comprehensive molecular portraits of human breast tumours (PMID23000897).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3465532/"
+  },
+  "23103869": {
+    "status": "done",
+    "filename": "Pancreatic cancer genomes reveal aberrations in axon guidance pathway genes (PMID23103869).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3530898/"
+  },
+  "23334666": {
+    "status": "done",
+    "filename": "The genetic landscape of high-risk neuroblastoma (PMID23334666).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3682833/"
+  },
+  "23334668": {
+    "status": "done",
+    "filename": "The genomic landscape of hypodiploid acute lymphoblastic leukemia (PMID23334668).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3919793/"
+  },
+  "23415222": {
+    "status": "done",
+    "filename": "Evolution and impact of subclonal mutations in chronic lymphocytic leukemia (PMID23415222).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3575604/"
+  },
+  "23525077": {
+    "status": "done",
+    "filename": "Exome and whole-genome sequencing of esophageal adenocarcinoma identifies recurrent driver events and mutational complex (PMID23525077).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3678719/"
+  },
+  "23619168": {
+    "status": "done",
+    "filename": "Integrative genomic characterization of oral squamous cell carcinoma identifies frequent somatic drivers (PMID23619168).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3858325/"
+  },
+  "23622249": {
+    "status": "done",
+    "filename": "Punctuated evolution of prostate cancer genomes (PMID23622249).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3690918/"
+  },
+  "23634996": {
+    "status": "done",
+    "filename": "Genomic and epigenomic landscapes of adult de novo acute myeloid leukemia (PMID23634996).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3767041/"
+  },
+  "23636398": {
+    "status": "done",
+    "filename": "Integrated genomic characterization of endometrial carcinoma (PMID23636398).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3704730/"
+  },
+  "23685749": {
+    "status": "done",
+    "filename": "The mutational landscape of adenoid cystic carcinoma (PMID23685749).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3708595/"
+  },
+  "23699601": {
+    "status": "done",
+    "filename": "Mutational and structural analysis of diffuse large B-cell lymphoma using whole-genome sequencing (PMID23699601).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3744992/"
+  },
+  "23778141": {
+    "status": "done",
+    "filename": "Whole exome sequencing of adenoid cystic carcinoma (PMID23778141).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3999050/"
+  },
+  "23792563": {
+    "status": "done",
+    "filename": "Comprehensive molecular characterization of clear cell renal cell carcinoma (PMID23792563).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3771322/"
+  },
+  "23797736": {
+    "status": "no-pmc"
+  },
+  "23817572": {
+    "status": "done",
+    "filename": "Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma (PMID23817572).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3951336/"
+  },
+  "23897969": {
+    "status": "done",
+    "filename": "Prevalence and co-occurrence of actionable genomic alterations in high-grade bladder cancer (PMID23897969).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3753703/"
+  },
+  "24030381": {
+    "status": "done",
+    "filename": "Clinical and biological implications of driver mutations in myelodysplastic syndromes (PMID24030381).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3837510/"
+  },
+  "24120142": {
+    "status": "done",
+    "filename": "The somatic genomic landscape of glioblastoma (PMID24120142).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3910500/"
+  },
+  "24121792": {
+    "status": "done",
+    "filename": "Whole-genome and whole-exome sequencing of bladder cancer identifies frequent alterations in genes involved in sister ch (PMID24121792).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7512009/"
+  },
+  "24145436": {
+    "status": "done",
+    "filename": "Landscape of somatic mutations and clonal evolution in mantle cell lymphoma (PMID24145436).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3831489/"
+  },
+  "24185509": {
+    "status": "done",
+    "filename": "Exome sequencing identifies frequent inactivating mutations in BAP1 ARID1A and PBRM1 in intrahepatic cholangiocarcinomas (PMID24185509).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4013720/"
+  },
+  "24185513": {
+    "status": "no-pmc"
+  },
+  "24265153": {
+    "status": "done",
+    "filename": "The genetic landscape of clinical resistance to RAF inhibition in metastatic melanoma (PMID24265153).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3947264/"
+  },
+  "24293293": {
+    "status": "done",
+    "filename": "Whole-exome sequencing of pancreatic neoplasms with acinar differentiation (PMID24293293).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4048021/"
+  },
+  "24325359": {
+    "status": "done",
+    "filename": "Somatic CALR mutations in myeloproliferative neoplasms with nonmutated JAK2 (PMID24325359).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3966280/"
+  },
+  "24326773": {
+    "status": "no-pmc"
+  },
+  "24336570": {
+    "status": "done",
+    "filename": "Mutational analysis reveals the origin and therapy-driven evolution of recurrent glioma (PMID24336570).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3998672/"
+  },
+  "24418857": {
+    "status": "no-pmc"
+  },
+  "24434212": {
+    "status": "done",
+    "filename": "Widespread genetic heterogeneity in multiple myeloma implications for targeted therapy (PMID24434212).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4241387/"
+  },
+  "24436047": {
+    "status": "done",
+    "filename": "Comprehensive genomic analysis of rhabdomyosarcoma reveals a landscape of alterations affecting a common genetic axis in (PMID24436047).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4462130/"
+  },
+  "24476821": {
+    "status": "done",
+    "filename": "Comprehensive molecular characterization of urothelial bladder carcinoma (PMID24476821).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3962515/"
+  },
+  "24487277": {
+    "status": "done",
+    "filename": "Genomic architecture and evolution of clear cell renal cell carcinomas defined by multiregion sequencing (PMID24487277).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4636053/"
+  },
+  "24658004": {
+    "status": "done",
+    "filename": "Recurrent SMARCA4 mutations in small cell carcinoma of the ovary (PMID24658004).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5699446/"
+  },
+  "24670651": {
+    "status": "no-pmc"
+  },
+  "24686850": {
+    "status": "done",
+    "filename": "Genomic and molecular characterization of esophageal squamous cell carcinoma (PMID24686850).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4070589/"
+  },
+  "24735922": {
+    "status": "no-pmc"
+  },
+  "24798001": {
+    "status": "no-pmc"
+  },
+  "24816253": {
+    "status": "no-pmc"
+  },
+  "24816255": {
+    "status": "no-pmc"
+  },
+  "24952746": {
+    "status": "no-pmc"
+  },
+  "24974848": {
+    "status": "done",
+    "filename": "A specific missense mutation in GTF2I occurs at high frequency in thymic epithelial tumors (PMID24974848).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5705185/"
+  },
+  "24997986": {
+    "status": "no-pmc"
+  },
+  "25024180": {
+    "status": "done",
+    "filename": "Copy number alteration burden predicts prostate cancer relapse (PMID25024180).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4121784/"
+  },
+  "25079317": {
+    "status": "done",
+    "filename": "Comprehensive molecular characterization of gastric adenocarcinoma (PMID25079317).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4170219/"
+  },
+  "25079552": {
+    "status": "done",
+    "filename": "Comprehensive molecular profiling of lung adenocarcinoma (PMID25079552).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4231481/"
+  },
+  "25092538": {
+    "status": "done",
+    "filename": "Genomic predictors of survival in patients with high-grade urothelial carcinoma of the bladder (PMID25092538).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4312739/"
+  },
+  "25096233": {
+    "status": "done",
+    "filename": "Somatic ERCC2 mutations correlate with cisplatin sensitivity in muscle-invasive urothelial carcinoma (PMID25096233).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4238969/"
+  },
+  "25155756": {
+    "status": "done",
+    "filename": "The somatic genomic landscape of chromophobe renal cell carcinoma (PMID25155756).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4160352/"
+  },
+  "25164765": {
+    "status": "done",
+    "filename": "Comparative sequencing analysis reveals high genomic concordance between matched primary and metastatic colorectal cance (PMID25164765).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4189196/"
+  },
+  "25186949": {
+    "status": "no-pmc"
+  },
+  "25201530": {
+    "status": "done",
+    "filename": "Organoid cultures derived from patients with advanced prostate cancer (PMID25201530).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4237931/"
+  },
+  "25223734": {
+    "status": "done",
+    "filename": "Genomic landscape of Ewing sarcoma defines an aggressive subtype with co-association of STAG2 and TP53 mutations (PMID25223734).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4264969/"
+  },
+  "25233892": {
+    "status": "done",
+    "filename": "Genomic analyses of gynaecologic carcinosarcomas reveal frequent mutations in chromatin remodelling genes (PMID25233892).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4354107/"
+  },
+  "25240281": {
+    "status": "done",
+    "filename": "PRC2 is recurrently inactivated through EED or SUZ12 loss in malignant peripheral nerve sheath tumors (PMID25240281).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4249650/"
+  },
+  "25303977": {
+    "status": "done",
+    "filename": "Mutational landscape of aggressive cutaneous squamous cell carcinoma (PMID25303977).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4367811/"
+  },
+  "25401301": {
+    "status": "done",
+    "filename": "Spectrum of diverse genomic alterations define non-clear cell renal carcinoma subtypes (PMID25401301).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4489427/"
+  },
+  "25409260": {
+    "status": "done",
+    "filename": "Genetic basis for clinical response to CTLA-4 blockade in melanoma (PMID25409260).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4315319/"
+  },
+  "25417114": {
+    "status": "done",
+    "filename": "Integrated genomic characterization of papillary thyroid carcinoma (PMID25417114).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4243044/"
+  },
+  "25470049": {
+    "status": "done",
+    "filename": "Dynamics of genomic clones in breast cancer patient xenografts at single-cell resolution (PMID25470049).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4864027/"
+  },
+  "25485619": {
+    "status": "no-pmc"
+  },
+  "25488749": {
+    "status": "no-pmc"
+  },
+  "25526346": {
+    "status": "no-pmc"
+  },
+  "25583476": {
+    "status": "done",
+    "filename": "Mutational landscape of gastric adenocarcinoma in Chinese implications for prognosis and therapy (PMID25583476).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4313862/"
+  },
+  "25583493": {
+    "status": "done",
+    "filename": "Novel recurrently mutated genes in African American colon cancers (PMID25583493).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4313860/"
+  },
+  "25589618": {
+    "status": "done",
+    "filename": "Genomic analysis of metastatic cutaneous squamous cell carcinoma (PMID25589618).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4359951/"
+  },
+  "25608663": {
+    "status": "no-pmc"
+  },
+  "25631445": {
+    "status": "done",
+    "filename": "Comprehensive genomic characterization of head and neck squamous cell carcinomas (PMID25631445).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4311405/"
+  },
+  "25730765": {
+    "status": "done",
+    "filename": "The landscape of somatic mutations in infant MLL-rearranged acute lymphoblastic leukemias (PMID25730765).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4553269/"
+  },
+  "25765070": {
+    "status": "done",
+    "filename": "Cancer immunology Mutational landscape determines sensitivity to PD-1 blockade in non-small cell lung cancer (PMID25765070).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4993154/"
+  },
+  "25822088": {
+    "status": "done",
+    "filename": "Exome sequencing of hepatocellular carcinomas identifies new mutational signatures and potential therapeutic targets (PMID25822088).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4587544/"
+  },
+  "25855536": {
+    "status": "done",
+    "filename": "Whole-exome sequencing of pancreatic cancer defines genetic diversity and therapeutic targets (PMID25855536).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4403382/"
+  },
+  "25991819": {
+    "status": "done",
+    "filename": "Genome-Wide Analysis Uncovers Novel Recurrent Alterations in Primary Central Nervous System Lymphomas (PMID25991819).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4558226/"
+  },
+  "26000489": {
+    "status": "done",
+    "filename": "Integrative clinical genomics of advanced prostate cancer (PMID26000489).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4484602/"
+  },
+  "26091043": {
+    "status": "done",
+    "filename": "Genomic Classification of Cutaneous Melanoma (PMID26091043).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4580370/"
+  },
+  "26095796": {
+    "status": "done",
+    "filename": "Genomic landscape of adenoid cystic carcinoma of the breast (PMID26095796).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4676955/"
+  },
+  "26168399": {
+    "status": "done",
+    "filename": "Comprehensive genomic profiles of small cell lung cancer (PMID26168399).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4861069/"
+  },
+  "26200345": {
+    "status": "no-pmc"
+  },
+  "26278805": {
+    "status": "done",
+    "filename": "Genomic Characterization of Upper Tract Urothelial Carcinoma (PMID26278805).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4675454/"
+  },
+  "26343386": {
+    "status": "done",
+    "filename": "Exome sequencing of desmoplastic melanoma identifies recurrent NFKBIE promoter mutations and diverse activating mutation (PMID26343386).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4589486/"
+  },
+  "26359337": {
+    "status": "done",
+    "filename": "Genomic correlates of response to CTLA-4 blockade in metastatic melanoma (PMID26359337).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5054517/"
+  },
+  "26437033": {
+    "status": "no-pmc"
+  },
+  "26451490": {
+    "status": "done",
+    "filename": "Comprehensive Molecular Portraits of Invasive Lobular Breast Cancer (PMID26451490).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4603750/"
+  },
+  "26466568": {
+    "status": "done",
+    "filename": "Telomerase activation by genomic rearrangements in high-risk neuroblastoma (PMID26466568).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4881306/"
+  },
+  "26466571": {
+    "status": "done",
+    "filename": "Mutations driving CLL and their evolution in progression and relapse (PMID26466571).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4815041/"
+  },
+  "26544944": {
+    "status": "done",
+    "filename": "The Molecular Taxonomy of Primary Prostate Cancer (PMID26544944).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4695400/"
+  },
+  "26551667": {
+    "status": "done",
+    "filename": "The mutational landscape of cutaneous T cell lymphoma and Szary syndrome (PMID26551667).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4878831/"
+  },
+  "26631609": {
+    "status": "done",
+    "filename": "Novel MYBL1 Gene Rearrangements with Recurrent MYBL1-NFIB Fusions in Salivary Adenoid Cystic Carcinomas Lacking t69 Tran (PMID26631609).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4807116/"
+  },
+  "26683228": {
+    "status": "done",
+    "filename": "Deep sequencing of uveal melanoma identifies a recurrent mutation in PLCB4 (PMID26683228).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4826231/"
+  },
+  "26760213": {
+    "status": "done",
+    "filename": "Divergent clonal selection dominates medulloblastoma at recurrence (PMID26760213).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4936195/"
+  },
+  "26804919": {
+    "status": "done",
+    "filename": "Ampullary Cancers Harbor ELF3 Tumor Suppressor Gene Mutations and Exhibit Frequent WNT Dysregulation (PMID26804919).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4982376/"
+  },
+  "26824661": {
+    "status": "done",
+    "filename": "Molecular Profiling Reveals Biologically Discrete Subsets and Pathways of Progression in Diffuse Glioma (PMID26824661).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4754110/"
+  },
+  "26829750": {
+    "status": "done",
+    "filename": "An oncogenic MYB feedback loop drives alternate cell fates in adenoid cystic carcinoma (PMID26829750).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4767593/"
+  },
+  "26855148": {
+    "status": "done",
+    "filename": "Divergent clonal evolution of castration-resistant neuroendocrine prostate cancer (PMID26855148).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4777652/"
+  },
+  "26862087": {
+    "status": "done",
+    "filename": "Whole-Genome Sequencing of Salivary Gland Adenoid Cystic Carcinoma (PMID26862087).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4818686/"
+  },
+  "26878173": {
+    "status": "done",
+    "filename": "Genomic and transcriptomic hallmarks of poorly differentiated and anaplastic thyroid cancers (PMID26878173).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4767360/"
+  },
+  "26901067": {
+    "status": "done",
+    "filename": "Frequent somatic CDH1 loss-of-function mutations in plasmacytoid variant bladder cancer (PMID26901067).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4827439/"
+  },
+  "26909576": {
+    "status": "no-pmc"
+  },
+  "26928463": {
+    "status": "done",
+    "filename": "Substantial interindividual and limited intraindividual genomic diversity among tumors from men with metastatic prostate (PMID26928463).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5045679/"
+  },
+  "26950094": {
+    "status": "no-pmc"
+  },
+  "26977886": {
+    "status": "done",
+    "filename": "Genome-Wide Profiles of Extra-cranial Malignant Rhabdoid Tumors Reveal Heterogeneity and Dysregulated Developmental Path (PMID26977886).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5094835/"
+  },
+  "26997480": {
+    "status": "done",
+    "filename": "Genomic and Transcriptomic Features of Response to Anti-PD-1 Therapy in Metastatic Melanoma (PMID26997480).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4808437/"
+  },
+  "27149842": {
+    "status": "done",
+    "filename": "Genomic Correlates of Immune-Cell Infiltrates in Colorectal Carcinoma (PMID27149842).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4850357/"
+  },
+  "27158780": {
+    "status": "done",
+    "filename": "Distinct patterns of somatic genome alterations in lung adenocarcinomas and squamous cell carcinomas (PMID27158780).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4884143/"
+  },
+  "27161491": {
+    "status": "done",
+    "filename": "The somatic mutation profiles of 2433 breast cancers refines their genomic and transcriptomic landscapes (PMID27161491).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4866047/"
+  },
+  "27169994": {
+    "status": "done",
+    "filename": "Immunomodulatory Activity of Nivolumab in Metastatic Renal Cell Carcinoma (PMID27169994).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5106340/"
+  },
+  "27276561": {
+    "status": "done",
+    "filename": "Genomic Classification and Prognosis in Acute Myeloid Leukemia (PMID27276561).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4979995/"
+  },
+  "27346245": {
+    "status": "no-pmc"
+  },
+  "27442865": {
+    "status": "done",
+    "filename": "The Molecular Landscape of Recurrent and Metastatic Head and Neck Cancers Insights From a Precision Oncology Sequencing  (PMID27442865).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5253129/"
+  },
+  "27634761": {
+    "status": "no-pmc"
+  },
+  "27646943": {
+    "status": "done",
+    "filename": "Genetic Determinants of Cisplatin Resistance in Patients With Advanced Germ Cell Tumors (PMID27646943).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5477828/"
+  },
+  "27713405": {
+    "status": "done",
+    "filename": "Molecular analysis of aggressive renal cell carcinoma with unclassified histology reveals distinct subsets (PMID27713405).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5059781/"
+  },
+  "27749842": {
+    "status": "done",
+    "filename": "Clonal evolution of chemotherapy-resistant urothelial carcinoma (PMID27749842).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5549141/"
+  },
+  "27776115": {
+    "status": "done",
+    "filename": "Deregulation of DUX4 and ERG in acute lymphoblastic leukemia (PMID27776115).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5144107/"
+  },
+  "27939400": {
+    "status": "done",
+    "filename": "Atezolizumab as first-line treatment in cisplatin-ineligible patients with locally advanced and metastatic urothelial ca (PMID27939400).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5568632/"
+  },
+  "27959731": {
+    "status": "done",
+    "filename": "TP53 and Decitabine in Acute Myeloid Leukemia and Myelodysplastic Syndromes (PMID27959731).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5217532/"
+  },
+  "28007021": {
+    "status": "done",
+    "filename": "Implementation of next generation sequencing into pediatric hematology-oncology practice moving beyond actionable altera (PMID28007021).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5180407/"
+  },
+  "28027327": {
+    "status": "done",
+    "filename": "Mutational Profile of Metastatic Breast Cancers A Retrospective Analysis (PMID28027327).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5189935/"
+  },
+  "28052061": {
+    "status": "done",
+    "filename": "Integrated genomic characterization of oesophageal carcinoma (PMID28052061).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5651175/"
+  },
+  "28068672": {
+    "status": "no-pmc"
+  },
+  "28162975": {
+    "status": "done",
+    "filename": "Comprehensive Molecular Characterization of Pheochromocytoma and Paraganglioma (PMID28162975).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5643159/"
+  },
+  "28196596": {
+    "status": "done",
+    "filename": "Chemosensitive Relapse in Small Cell Lung Cancer Proceeds through an EZH2-SLFN11 Axis (PMID28196596).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5313262/"
+  },
+  "28199314": {
+    "status": "no-pmc"
+  },
+  "28336552": {
+    "status": "done",
+    "filename": "Prospective Comprehensive Molecular Characterization of Lung Adenocarcinomas for Efficient Patient Matching to Approved  (PMID28336552).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5482929/"
+  },
+  "28373299": {
+    "status": "done",
+    "filename": "Integrated genomic analyses reveal frequent TERT aberrations in acral melanoma (PMID28373299).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5378171/"
+  },
+  "28445112": {
+    "status": "no-pmc"
+  },
+  "28445469": {
+    "status": "done",
+    "filename": "Phylogenetic ctDNA analysis depicts early-stage lung cancer evolution (PMID28445469).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5812436/"
+  },
+  "28472509": {
+    "status": "done",
+    "filename": "Multicenter phase II study of temozolomide and myeloablative chemotherapy with autologous stem cell transplant for newly (PMID28472509).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5596171/"
+  },
+  "28481359": {
+    "status": "done",
+    "filename": "Mutational landscape of metastatic cancer revealed from prospective clinical sequencing of 10000 patients (PMID28481359).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5461196/"
+  },
+  "28485815": {
+    "status": "done",
+    "filename": "Somatic mutation profiles of clear cell endometrial tumors revealed by whole exome and targeted gene sequencing (PMID28485815).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5587124/"
+  },
+  "28583311": {
+    "status": "done",
+    "filename": "Next-generation Sequencing of Nonmuscle Invasive Bladder Cancer Reveals Potential Biomarkers and Rational Therapeutic Ta (PMID28583311).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6007852/"
+  },
+  "28667006": {
+    "status": "done",
+    "filename": "Whole-Genome and Epigenomic Landscapes of Etiologically Distinct Subtypes of Cholangiocarcinoma (PMID28667006).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5628134/"
+  },
+  "28726821": {
+    "status": "done",
+    "filename": "The whole-genome landscape of medulloblastoma subtypes (PMID28726821).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5905700/"
+  },
+  "28783718": {
+    "status": "done",
+    "filename": "Integrative clinical genomics of metastatic cancer (PMID28783718).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5995337/"
+  },
+  "28825054": {
+    "status": "done",
+    "filename": "Prospective Genomic Profiling of Prostate Cancer Across Disease States Reveals Germline and Somatic Alterations That May (PMID28825054).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5558263/"
+  },
+  "28927585": {
+    "status": "no-pmc"
+  },
+  "28985567": {
+    "status": "done",
+    "filename": "Genetic and Functional Drivers of Diffuse Large B Cell Lymphoma (PMID28985567).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5659841/"
+  },
+  "28988769": {
+    "status": "done",
+    "filename": "Comprehensive Molecular Characterization of Muscle-Invasive Bladder Cancer (PMID28988769).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5687509/"
+  },
+  "29033130": {
+    "status": "done",
+    "filename": "Tumor and Microenvironment Evolution during Immunotherapy with Nivolumab (PMID29033130).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5685550/"
+  },
+  "29100075": {
+    "status": "done",
+    "filename": "Comprehensive and Integrated Genomic Characterization of Adult Soft Tissue Sarcomas (PMID29100075).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5693358/"
+  },
+  "29122777": {
+    "status": "done",
+    "filename": "Genetic Predictors of Response to Systemic Therapy in Esophagogastric Cancer (PMID29122777).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5813492/"
+  },
+  "29301960": {
+    "status": "done",
+    "filename": "Genomic correlates of response to immune checkpoint therapies in clear cell renal cell carcinoma (PMID29301960).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6035749/"
+  },
+  "29316426": {
+    "status": "done",
+    "filename": "Clinical Sequencing Defines the Genomic Landscape of Metastatic Colorectal Cancer (PMID29316426).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5765991/"
+  },
+  "29337640": {
+    "status": "done",
+    "filename": "Molecular Determinants of Response to Anti-Programmed Cell Death PD-1 and Anti-Programmed Death-Ligand 1 PD-L1 Blockade  (PMID29337640).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6075848/"
+  },
+  "29420467": {
+    "status": "done",
+    "filename": "HER kinase inhibition in patients with HER2- and HER3-mutant cancers (PMID29420467).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5808581/"
+  },
+  "29422544": {
+    "status": "done",
+    "filename": "Mutational signatures and chromosome alteration profiles of squamous cell carcinomas of the vulva (PMID29422544).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5903820/"
+  },
+  "29489754": {
+    "status": "no-pmc"
+  },
+  "29596782": {
+    "status": "done",
+    "filename": "Scalable Open Science Approach for Mutation Calling of Tumor Exomes Using Multiple Genomic Pipelines (PMID29596782).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6075717/"
+  },
+  "29610475": {
+    "status": "done",
+    "filename": "The long tail of oncogenic drivers in prostate cancer (PMID29610475).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6107367/"
+  },
+  "29617662": {
+    "status": "done",
+    "filename": "Driver Fusions and Their Implications in the Development and Treatment of Human Cancers (PMID29617662).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5916809/"
+  },
+  "29622463": {
+    "status": "done",
+    "filename": "Genomic and Functional Approaches to Understanding Cancer Aneuploidy (PMID29622463).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6028190/"
+  },
+  "29625048": {
+    "status": "done",
+    "filename": "Cell-of-Origin Patterns Dominate the Molecular Classification of 10000 Tumors from 33 Types of Cancer (PMID29625048).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5957518/"
+  },
+  "29625049": {
+    "status": "done",
+    "filename": "Perspective on Oncogenic Processes at the End of the Beginning of Cancer Genomics (PMID29625049).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5916814/"
+  },
+  "29625050": {
+    "status": "done",
+    "filename": "Oncogenic Signaling Pathways in The Cancer Genome Atlas (PMID29625050).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6070353/"
+  },
+  "29625055": {
+    "status": "done",
+    "filename": "An Integrated TCGA Pan-Cancer Clinical Data Resource to Drive High-Quality Survival Outcome Analytics (PMID29625055).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6066282/"
+  },
+  "29625057": {
+    "status": "done",
+    "filename": "Tumor Evolution and Drug Response in Patient-Derived Organoid Models of Bladder Cancer (PMID29625057).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5890941/"
+  },
+  "29657128": {
+    "status": "done",
+    "filename": "Genomic Features of Response to Combination Immunotherapy in Patients with Advanced Non-Small-Cell Lung Cancer (PMID29657128).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5953836/"
+  },
+  "29670109": {
+    "status": "done",
+    "filename": "Mutation hotspots at CTCF binding sites coupled to chromosomal instability in gastrointestinal cancers (PMID29670109).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5906695/"
+  },
+  "29713003": {
+    "status": "done",
+    "filename": "Multi-omics profiling of younger Asian breast cancers reveals distinctive molecular signatures (PMID29713003).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5928087/"
+  },
+  "29713087": {
+    "status": "done",
+    "filename": "Molecular subtypes of diffuse large B cell lymphoma are associated with distinct pathogenic mechanisms and outcomes (PMID29713087).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6613387/"
+  },
+  "29848569": {
+    "status": "done",
+    "filename": "Comprehensive Molecular Profiling of Intrahepatic and Extrahepatic Cholangiocarcinomas Potential Targets for Interventio (PMID29848569).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6642361/"
+  },
+  "29850653": {
+    "status": "done",
+    "filename": "Landscape of Microsatellite Instability Across 39 Cancer Types (PMID29850653).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5972025/"
+  },
+  "29867230": {
+    "status": "done",
+    "filename": "Clinical activity and molecular correlates of response to atezolizumab alone or in combination with bevacizumab versus s (PMID29867230).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6721896/"
+  },
+  "30052636": {
+    "status": "done",
+    "filename": "Characterization of hepatocellular adenoma and carcinoma using microRNA profiling and targeted gene sequencing (PMID30052636).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6063411/"
+  },
+  "30068706": {
+    "status": "done",
+    "filename": "Clinical Utility of Prospective Molecular Characterization in Advanced Endometrial Cancer (PMID30068706).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6279519/"
+  },
+  "30150660": {
+    "status": "done",
+    "filename": "Genomic correlates of response to immune checkpoint blockade in microsatellite-stable solid tumors (PMID30150660).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6119118/"
+  },
+  "30205045": {
+    "status": "done",
+    "filename": "The Genomic Landscape of Endocrine-Resistant Advanced Breast Cancers (PMID30205045).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6327853/"
+  },
+  "30290956": {
+    "status": "done",
+    "filename": "Genomic Differences Between Primary and Secondary Muscle-invasive Bladder Cancer as a Basis for Disparate Outcomes to Ci (PMID30290956).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6339572/"
+  },
+  "30333627": {
+    "status": "done",
+    "filename": "Functional genomic landscape of acute myeloid leukaemia (PMID30333627).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6280667/"
+  },
+  "30373752": {
+    "status": "done",
+    "filename": "Prospective Genotyping of Hepatocellular Carcinoma Clinical Implications of Next-Generation Sequencing for Matching Pati (PMID30373752).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6689131/"
+  },
+  "30427539": {
+    "status": "done",
+    "filename": "Regional differences in gallbladder cancer pathogenesis Insights from a multi-institutional comparison of tumor mutation (PMID30427539).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6636637/"
+  },
+  "30537516": {
+    "status": "done",
+    "filename": "Molecular Evolution of Early-Onset Prostate Cancer Identifies Molecular Risk Markers and Clinical Trajectories (PMID30537516).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7444093/"
+  },
+  "30643250": {
+    "status": "no-pmc"
+  },
+  "30643254": {
+    "status": "done",
+    "filename": "Tumor mutational load predicts survival after immunotherapy across multiple cancer types (PMID30643254).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6365097/"
+  },
+  "30675060": {
+    "status": "done",
+    "filename": "Tracking tumour evolution in glioma through liquid biopsies of cerebrospinal fluid (PMID30675060).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6457907/"
+  },
+  "30687805": {
+    "status": "done",
+    "filename": "Real-Time Genomic Characterization of Metastatic Pancreatic Neuroendocrine Tumors Has Prognostic Implications and Identi (PMID30687805).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6345401/"
+  },
+  "30742119": {
+    "status": "done",
+    "filename": "Immune and genomic correlates of response to anti-PD-1 immunotherapy in glioblastoma (PMID30742119).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6810613/"
+  },
+  "30742122": {
+    "status": "done",
+    "filename": "Neoadjuvant anti-PD-1 immunotherapy promotes a survival benefit with intratumoral and systemic immune responses in recur (PMID30742122).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6408961/"
+  },
+  "30753825": {
+    "status": "no-pmc"
+  },
+  "30867590": {
+    "status": "done",
+    "filename": "Dynamics of breast-cancer relapse reveal late-recurring ER-positive genomic subgroups (PMID30867590).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6647838/"
+  },
+  "30867592": {
+    "status": "done",
+    "filename": "Efficacy of MEK inhibition in patients with histiocytic neoplasms (PMID30867592).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6438729/"
+  },
+  "31031003": {
+    "status": "done",
+    "filename": "Proteogenomic Analysis of Human Colon Cancer Reveals New Therapeutic Opportunities (PMID31031003).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6768830/"
+  },
+  "31061129": {
+    "status": "done",
+    "filename": "Genomic correlates of clinical outcome in advanced prostate cancer (PMID31061129).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6561293/"
+  },
+  "31068700": {
+    "status": "done",
+    "filename": "Next-generation characterization of the Cancer Cell Line Encyclopedia (PMID31068700).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6697103/"
+  },
+  "31130341": {
+    "status": "done",
+    "filename": "Genomic and Transcriptomic Profiling of Combined Hepatocellular and Intrahepatic Cholangiocarcinoma Reveals Distinct Mol (PMID31130341).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8317046/"
+  },
+  "31263031": {
+    "status": "done",
+    "filename": "Genomic Correlates of Disease Progression and Treatment Response in Prospectively Characterized Gliomas (PMID31263031).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6753053/"
+  },
+  "31278255": {
+    "status": "done",
+    "filename": "Upper tract urothelial carcinoma has a luminal-papillary T-cell depleted contexture and activated FGFR3 signaling (PMID31278255).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6611775/"
+  },
+  "31483290": {
+    "status": "done",
+    "filename": "Genetic hallmarks of recurrentmetastatic adenoid cystic carcinoma (PMID31483290).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6763222/"
+  },
+  "31552290": {
+    "status": "done",
+    "filename": "PIK3CA and MAP3K1 alterations imply luminal A status and are associated with clinical benefit from pan-PI3K inhibitor bu (PMID31552290).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6757060/"
+  },
+  "31564440": {
+    "status": "done",
+    "filename": "Hyperpolarized MRI of Human Prostate Cancer Reveals Increased Lactate with Tumor Grade Driven by Monocarboxylate Transpo (PMID31564440).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6949382/"
+  },
+  "31591597": {
+    "status": "done",
+    "filename": "A rectal cancer organoid platform to study individual responses to chemoradiation (PMID31591597).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7385919/"
+  },
+  "31693904": {
+    "status": "done",
+    "filename": "Genomic Profiling of Childhood Tumor Patient-Derived Xenograft Models to Enable Rational Clinical Trial Design (PMID31693904).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6880934/"
+  },
+  "31748746": {
+    "status": "done",
+    "filename": "Longitudinal molecular trajectories of diffuse glioma in adults (PMID31748746).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6897368/"
+  },
+  "31768066": {
+    "status": "done",
+    "filename": "High-intensity sequencing reveals the sources of plasma circulating cell-free DNA variants (PMID31768066).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7061455/"
+  },
+  "31792460": {
+    "status": "done",
+    "filename": "Integrative molecular and clinical modeling of clinical outcomes to PD1 blockade in patients with metastatic melanoma (PMID31792460).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6898788/"
+  },
+  "31852831": {
+    "status": "done",
+    "filename": "Genomic and Phenotypic Characterization of a Broad Panel of Patient-Derived Xenografts Reflects the Diversity of Gliobla (PMID31852831).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7056576/"
+  },
+  "31871300": {
+    "status": "done",
+    "filename": "TRK Fusions Are Enriched in Cancers with Uncommon Histologies and the Absence of Canonical Driver Mutations (PMID31871300).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7124988/"
+  },
+  "31978347": {
+    "status": "done",
+    "filename": "Quantitative Proteomics of the Cancer Cell Line Encyclopedia (PMID31978347).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7339254/"
+  },
+  "32015526": {
+    "status": "no-pmc"
+  },
+  "32025007": {
+    "status": "done",
+    "filename": "Pan-cancer analysis of whole genomes (PMID32025007).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7025898/"
+  },
+  "32042194": {
+    "status": "no-pmc"
+  },
+  "32059776": {
+    "status": "done",
+    "filename": "Proteogenomic Characterization of Endometrial Carcinoma (PMID32059776).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7233456/"
+  },
+  "32214244": {
+    "status": "done",
+    "filename": "Microbiome analyses of blood and tissues suggest cancer diagnostic approach (PMID32214244).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7500457/"
+  },
+  "32220886": {
+    "status": "done",
+    "filename": "Whole-Exome Sequencing Analysis of the Progression from Non-Low-Grade Ductal Carcinoma In Situ to Invasive Ductal Carcin (PMID32220886).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7367727/"
+  },
+  "32220891": {
+    "status": "done",
+    "filename": "Oncogenic Genomic Alterations Clinical Phenotypes and Outcomes in Metastatic Castration-Sensitive Prostate Cancer (PMID32220891).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7334067/"
+  },
+  "32299819": {
+    "status": "done",
+    "filename": "Genomic Landscape of Uterine Sarcomas Defined Through Prospective Clinical Sequencing (PMID32299819).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7367750/"
+  },
+  "32317181": {
+    "status": "done",
+    "filename": "Pan-cancer Analysis of CDK12 Alterations Identifies a Subset of Prostate Cancers with Distinct Genomic and Clinical Char (PMID32317181).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7572747/"
+  },
+  "32332851": {
+    "status": "done",
+    "filename": "Modeling biological and genetic diversity in upper tract urothelial carcinoma with patient derived xenografts (PMID32332851).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7181640/"
+  },
+  "32404308": {
+    "status": "done",
+    "filename": "The Genomic Landscape of Intrinsic and Acquired Resistance to Cyclin-Dependent Kinase 46 Inhibitors in Patients with Hor (PMID32404308).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8815415/"
+  },
+  "32437664": {
+    "status": "done",
+    "filename": "First-line pembrolizumab and trastuzumab in HER2-positive oesophageal gastric or gastro-oesophageal junction cancer an o (PMID32437664).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8229851/"
+  },
+  "32561749": {
+    "status": "done",
+    "filename": "A clinically and genomically annotated nerve sheath tumor biospecimen repository (PMID32561749).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7305302/"
+  },
+  "32633890": {
+    "status": "done",
+    "filename": "Cell-free DNA profiling in retinoblastoma patients with advanced intraocular disease An MSKCC experience (PMID32633890).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7476838/"
+  },
+  "32649874": {
+    "status": "done",
+    "filename": "Proteogenomic Characterization Reveals Therapeutic Vulnerabilities in Lung Adenocarcinoma (PMID32649874).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7373300/"
+  },
+  "32649877": {
+    "status": "no-pmc"
+  },
+  "32719455": {
+    "status": "done",
+    "filename": "Molecular subtyping and genomic profiling expand precision medicine in refractory metastatic triple-negative breast canc (PMID32719455).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8027015/"
+  },
+  "32730818": {
+    "status": "done",
+    "filename": "Specific Mutations in APC but Not Alterations in DNA Damage Response Associate With Outcomes of Patients With Metastatic (PMID32730818).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7680360/"
+  },
+  "32791233": {
+    "status": "done",
+    "filename": "The Underlying Tumor Genomics of Predominant Histologic Subtypes in Lung Adenocarcinoma (PMID32791233).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7704768/"
+  },
+  "32864625": {
+    "status": "done",
+    "filename": "Alterations in PTEN and ESR1 promote clinical resistance to alpelisib plus aromatase inhibitors (PMID32864625).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7450824/"
+  },
+  "32888432": {
+    "status": "no-pmc"
+  },
+  "32897884": {
+    "status": "done",
+    "filename": "Germ cell tumors and associated hematologic malignancies evolve from a common shared precursor (PMID32897884).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7685753/"
+  },
+  "32913971": {
+    "status": "done",
+    "filename": "PTEN Loss-of-Function Alterations Are Associated With Intrinsic Resistance to BRAF Inhibitors in Metastatic Melanoma (PMID32913971).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7446400/"
+  },
+  "33025139": {
+    "status": "done",
+    "filename": "Epigenomic genomic and transcriptomic landscape of schwannomatosis (PMID33025139).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7785562/"
+  },
+  "33029006": {
+    "status": "done",
+    "filename": "The genomic landscapes of individual melanocytes from human skin (PMID33029006).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7581540/"
+  },
+  "33067607": {
+    "status": "done",
+    "filename": "Tumor-targeted nanoparticles improve the therapeutic index of BCL2 and MCL1 dual inhibition (PMID33067607).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8057264/"
+  },
+  "33106634": {
+    "status": "done",
+    "filename": "Cancer therapy shapes the fitness landscape of clonal hematopoiesis (PMID33106634).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7891089/"
+  },
+  "33212010": {
+    "status": "done",
+    "filename": "Proteogenomic Landscape of Breast Cancer Tumorigenesis and Targeted Therapy (PMID33212010).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8077737/"
+  },
+  "33242424": {
+    "status": "done",
+    "filename": "Integrated Proteogenomic Characterization across Major Histological Types of Pediatric Brain Cancer (PMID33242424).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8143193/"
+  },
+  "33263939": {
+    "status": "done",
+    "filename": "Whole-exome sequencing analysis of juvenile papillomatosis and coexisting breast carcinoma (PMID33263939).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7869928/"
+  },
+  "33397444": {
+    "status": "done",
+    "filename": "Comprehensive integrative profiling of upper tract urothelial carcinomas (PMID33397444).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7780630/"
+  },
+  "33466343": {
+    "status": "done",
+    "filename": "Molecular Changes in Retinoblastoma beyond RB1 Findings from Next-Generation Sequencing (PMID33466343).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7796332/"
+  },
+  "33509808": {
+    "status": "done",
+    "filename": "Therapeutic Implications of Detecting MAPK-Activating Alterations in Cutaneous and Unknown Primary Melanomas (PMID33509808).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8046739/"
+  },
+  "33577785": {
+    "status": "done",
+    "filename": "Proteogenomic and metabolomic characterization of human glioblastoma (PMID33577785).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8044053/"
+  },
+  "33585982": {
+    "status": "no-pmc"
+  },
+  "33765338": {
+    "status": "done",
+    "filename": "Genetic Determinants of Outcome in Intrahepatic Cholangiocarcinoma (PMID33765338).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8713028/"
+  },
+  "33795256": {
+    "status": "done",
+    "filename": "Next-Generation Sequencing of 487 Esophageal Adenocarcinomas Reveals Independently Prognostic Genomic Driver Alterations (PMID33795256).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8228505/"
+  },
+  "33863915": {
+    "status": "done",
+    "filename": "TERT promoter hotspot mutations and gene amplification in metaplastic breast cancer (PMID33863915).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8052452/"
+  },
+  "33963001": {
+    "status": "done",
+    "filename": "Intrahepatic Cholangiocarcinoma with Lymph Node Metastasis Treatment-Related Outcomes and the Role of Tumor Genomics in  (PMID33963001).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8282702/"
+  },
+  "34059130": {
+    "status": "done",
+    "filename": "Tumor fraction-guided cell-free DNA profiling in metastatic solid tumor patients (PMID34059130).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8165771/"
+  },
+  "34145282": {
+    "status": "done",
+    "filename": "Enhanced specificity of clinical high-sensitivity tumor mutation profiling in cell-free DNA via paired normal sequencing (PMID34145282).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8213710/"
+  },
+  "34272401": {
+    "status": "done",
+    "filename": "The landscape of driver mutations in cutaneous squamous cell carcinoma (PMID34272401).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8285521/"
+  },
+  "34290393": {
+    "status": "done",
+    "filename": "Preoperative clinical and tumor genomic features associated with pathologic lymph node metastasis in clinical stage I an (PMID34290393).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8295366/"
+  },
+  "34358469": {
+    "status": "done",
+    "filename": "A proteogenomic portrait of lung squamous cell carcinoma (PMID34358469).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8475722/"
+  },
+  "34405229": {
+    "status": "done",
+    "filename": "A Comprehensive Comparison of Early-Onset and Average-Onset Colorectal Cancers (PMID34405229).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8634406/"
+  },
+  "34433969": {
+    "status": "done",
+    "filename": "A clinically applicable integrative molecular classification of meningiomas (PMID34433969).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11604310/"
+  },
+  "34493867": {
+    "status": "done",
+    "filename": "Genomic and evolutionary classification of lung cancer in never smokers (PMID34493867).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8432745/"
+  },
+  "34534465": {
+    "status": "done",
+    "filename": "Proteogenomic characterization of pancreatic ductal adenocarcinoma (PMID34534465).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8654574/"
+  },
+  "34544752": {
+    "status": "done",
+    "filename": "INK4 Tumor Suppressor Proteins Mediate Resistance to CDK46 Kinase Inhibitors (PMID34544752).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8831444/"
+  },
+  "34635660": {
+    "status": "done",
+    "filename": "Germline RAD51B variants confer susceptibility to breast and ovarian cancers deficient in homologous recombination (PMID34635660).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8505423/"
+  },
+  "34667026": {
+    "status": "done",
+    "filename": "Differences in Prostate Cancer Genomes by Self-reported Race Contributions of Genetic Ancestry Modifiable Cancer Risk Fa (PMID34667026).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8776579/"
+  },
+  "34795269": {
+    "status": "done",
+    "filename": "HER2 breast cancers evade anti-HER2 therapy via a switch in driver pathway (PMID34795269).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8602441/"
+  },
+  "34819508": {
+    "status": "done",
+    "filename": "Geometric network analysis provides prognostic information in patients with high grade serous carcinoma of the ovary tre (PMID34819508).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8613272/"
+  },
+  "34819518": {
+    "status": "done",
+    "filename": "Molecular and phenotypic profiling of colorectal cancer patients in West Africa reveals biological insights (PMID34819518).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8613248/"
+  },
+  "34910928": {
+    "status": "done",
+    "filename": "Differential pre-malignant programs and microenvironment chart distinct paths to malignancy in human colorectal polyps (PMID34910928).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8941949/"
+  },
+  "35078859": {
+    "status": "done",
+    "filename": "Bone Marrow Surveillance of Pediatric Cancer Survivors Identifies Clones that Predict Therapy-Related Leukemia (PMID35078859).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9983778/"
+  },
+  "35120664": {
+    "status": "done",
+    "filename": "Genomic characterization of metastatic patterns from prospective clinical sequencing of 25000 patients (PMID35120664).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9147702/"
+  },
+  "35121644": {
+    "status": "done",
+    "filename": "Evaluating the efficacy of a priming dose of cyclophosphamide prior to pembrolizumab to treat metastatic triple negative (PMID35121644).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8819787/"
+  },
+  "35121966": {
+    "status": "no-pmc"
+  },
+  "35235413": {
+    "status": "done",
+    "filename": "Same-Cell Co-Occurrence of RAS Hotspot and BRAF V600E Mutations in Treatment-Naive Colorectal Cancer (PMID35235413).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8906458/"
+  },
+  "35292802": {
+    "status": "done",
+    "filename": "The European MAPPYACTS Trial Precision Medicine Program in Pediatric and Adolescent Patients with Recurrent Malignancies (PMID35292802).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9394403/"
+  },
+  "35304457": {
+    "status": "done",
+    "filename": "The evolution of RET inhibitor resistance in RET-driven lung and thyroid cancers (PMID35304457).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8933489/"
+  },
+  "35377946": {
+    "status": "done",
+    "filename": "The Role of the TP53 Pathway in Predicting Response to Neoadjuvant Therapy in Esophageal Adenocarcinoma (PMID35377946).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9197876/"
+  },
+  "35440124": {
+    "status": "done",
+    "filename": "Genomic and transcriptomic analysis of a library of small cell lung cancer patient-derived xenografts (PMID35440124).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9018685/"
+  },
+  "35443055": {
+    "status": "done",
+    "filename": "MAPK Pathway Genetic Alterations Are Associated with Prolonged Overall Survival in Low-Grade Serous Ovarian Carcinoma (PMID35443055).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9582036/"
+  },
+  "35487942": {
+    "status": "done",
+    "filename": "Comprehensive profiling of 1015 patients exomes reveals genomic-clinical associations in colorectal cancer (PMID35487942).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9055073/"
+  },
+  "35504881": {
+    "status": "done",
+    "filename": "Alterations in homologous recombination repair genes in prostate cancer brain metastases (PMID35504881).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9065149/"
+  },
+  "35508466": {
+    "status": "done",
+    "filename": "Integrative proteogenomic characterization of hepatocellular carcinoma across etiologies and stages (PMID35508466).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9068765/"
+  },
+  "35585047": {
+    "status": "done",
+    "filename": "Feasibility of whole genome and transcriptome profiling in pediatric and young adult cancers (PMID35585047).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9117241/"
+  },
+  "35617398": {
+    "status": "done",
+    "filename": "Chromatin profiles classify castration-resistant prostate cancers suggesting therapeutic targets (PMID35617398).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9299269/"
+  },
+  "35649412": {
+    "status": "done",
+    "filename": "Glioma progression is shaped by genetic evolution and microenvironment interactions (PMID35649412).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9189056/"
+  },
+  "35662283": {
+    "status": "done",
+    "filename": "Sotigalimab andor nivolumab with chemotherapy in first-line metastatic pancreatic cancer clinical and immunologic analys (PMID35662283).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9205784/"
+  },
+  "35670774": {
+    "status": "done",
+    "filename": "The Impact of PIK3R1 Mutations and Insulin-PI3K-Glycolytic Pathway Regulation in Prostate Cancer (PMID35670774).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9438279/"
+  },
+  "35705558": {
+    "status": "done",
+    "filename": "Clinical genomic profiling in the management of patients with soft tissue and bone sarcoma (PMID35705558).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9200814/"
+  },
+  "35705560": {
+    "status": "done",
+    "filename": "Clinical sequencing of soft tissue and bone sarcomas delineates diverse genomic landscapes and potential therapeutic tar (PMID35705560).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9200818/"
+  },
+  "35849120": {
+    "status": "done",
+    "filename": "Microsatellite Instability-High Endometrial Cancers with MLH1 Promoter Hypermethylation Have Distinct Molecular and Clin (PMID35849120).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9529954/"
+  },
+  "35868306": {
+    "status": "done",
+    "filename": "Integrative analysis of drug response and clinical outcome in acute myeloid leukemia (PMID35868306).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9378589/"
+  },
+  "35871175": {
+    "status": "done",
+    "filename": "Landscape of somatic alterations in large-scale solid tumors from an Asian population (PMID35871175).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9308789/"
+  },
+  "35927489": {
+    "status": "done",
+    "filename": "Molecular map of chronic lymphocytic leukemia and its impact on outcome (PMID35927489).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10084830/"
+  },
+  "35970919": {
+    "status": "done",
+    "filename": "Genomic and transcriptomic determinants of response to neoadjuvant therapy in rectal cancer (PMID35970919).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9801308/"
+  },
+  "35982973": {
+    "status": "done",
+    "filename": "Whole genome analysis reveals the genomic complexity in metastatic cutaneous squamous cell carcinoma (PMID35982973).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9379253/"
+  },
+  "36001024": {
+    "status": "done",
+    "filename": "Proteogenomic Markers of Chemotherapy Resistance and Response in Triple-Negative Breast Cancer (PMID36001024).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9627136/"
+  },
+  "36007103": {
+    "status": "done",
+    "filename": "High-Sensitivity Mutation Analysis of Cell-Free DNA for Disease Monitoring in Endometrial Cancer (PMID36007103).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9852004/"
+  },
+  "36038778": {
+    "status": "done",
+    "filename": "Multimodal integration of radiology pathology and genomics for prediction of response to PD-L1 blockade in patients with (PMID36038778).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9586871/"
+  },
+  "36044468": {
+    "status": "done",
+    "filename": "Bioinformatically Expanded Next-Generation Sequencing Analysis Optimizes Identification of Therapeutically Relevant MET  (PMID36044468).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9633455/"
+  },
+  "36201743": {
+    "status": "done",
+    "filename": "Genetic subgroups inform on pathobiology in adult and pediatric Burkitt lymphoma (PMID36201743).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10023728/"
+  },
+  "36228155": {
+    "status": "done",
+    "filename": "Comprehensive Molecular Characterization of Gallbladder Carcinoma and Potential Targets for Intervention (PMID36228155).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9772093/"
+  },
+  "36333289": {
+    "status": "done",
+    "filename": "Collaborative study from the Bladder Cancer Advocacy Network for the genomic analysis of metastatic urothelial cancer (PMID36333289).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9636269/"
+  },
+  "36334560": {
+    "status": "no-pmc"
+  },
+  "36355783": {
+    "status": "done",
+    "filename": "Molecular Characterization of Acquired Resistance to KRASG12C-EGFR Inhibition in Colorectal Cancer (PMID36355783).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9827113/"
+  },
+  "36357680": {
+    "status": "done",
+    "filename": "Overall survival with circulating tumor DNA-guided therapy in advanced non-small-cell lung cancer (PMID36357680).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10338177/"
+  },
+  "36493333": {
+    "status": "done",
+    "filename": "Molecular Classification of Appendiceal Adenocarcinoma (PMID36493333).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10043565/"
+  },
+  "36517593": {
+    "status": "done",
+    "filename": "Ovarian cancer mutational processes drive site-specific immune evasion (PMID36517593).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9771812/"
+  },
+  "36543146": {
+    "status": "done",
+    "filename": "Genomic heterogeneity as a barrier to precision oncology in urothelial cancer (PMID36543146).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9882421/"
+  },
+  "36577525": {
+    "status": "done",
+    "filename": "Whole-genome characterization of myoepithelial carcinomas of the soft tissue (PMID36577525).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9808553/"
+  },
+  "36585450": {
+    "status": "done",
+    "filename": "Multiomics in primary and metastatic breast tumors from the AURORA US network finds microenvironment and epigenetic driv (PMID36585450).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9886551/"
+  },
+  "36593350": {
+    "status": "done",
+    "filename": "Expanded genetic testing of GIST patients identifies high proportion of non-syndromic patients with germline alterations (PMID36593350).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9807588/"
+  },
+  "36611031": {
+    "status": "done",
+    "filename": "Integrated clinical and genomic analysis identifies driver events and molecular evolution of colitis-associated cancers (PMID36611031).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9825391/"
+  },
+  "36723991": {
+    "status": "done",
+    "filename": "Molecular Evolution of Classic Hodgkin Lymphoma Revealed Through Whole-Genome Sequencing of Hodgkin and Reed Sternberg C (PMID36723991).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10150291/"
+  },
+  "36815791": {
+    "status": "done",
+    "filename": "Application of Genomic Sequencing to Refine Patient Stratification for Adjuvant Therapy in Renal Cell Carcinoma (PMID36815791).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10068441/"
+  },
+  "36862133": {
+    "status": "done",
+    "filename": "Overcoming Barriers to Tumor Genomic Profiling through Direct-to-Patient Outreach (PMID36862133).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10330105/"
+  },
+  "37078708": {
+    "status": "done",
+    "filename": "TP53 mutations identify high-risk events for peripheral T-cell lymphoma treated with CHOP-based chemotherapy (PMID37078708).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10480533/"
+  },
+  "37084736": {
+    "status": "done",
+    "filename": "Genomic mapping of metastatic organotropism in lung adenocarcinoma (PMID37084736).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10391526/"
+  },
+  "37169874": {
+    "status": "done",
+    "filename": "Clonal evolution during metastatic spread in high-risk neuroblastoma (PMID37169874).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11481711/"
+  },
+  "37202560": {
+    "status": "done",
+    "filename": "An integrated tumor immune and microbiome atlas of colon cancer (PMID37202560).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10202816/"
+  },
+  "37315267": {
+    "status": "done",
+    "filename": "Extremity Rhabdomyosarcoma-An Integrated Clinicopathologic and Genomic Study to Improve Risk Stratification (PMID37315267).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10309566/"
+  },
+  "37350195": {
+    "status": "done",
+    "filename": "Distinct genomic landscapes in radiation-associated angiosarcoma compared with other radiation-associated sarcoma histol (PMID37350195).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10756077/"
+  },
+  "37406106": {
+    "status": "done",
+    "filename": "Determinants of Survival with Combined HER2 and PD-1 Blockade in Metastatic Esophagogastric Cancer (PMID37406106).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10502449/"
+  },
+  "37477937": {
+    "status": "done",
+    "filename": "Novel Genomic Risk Stratification Model for Primary Gastrointestinal Stromal Tumors GIST in the Adjuvant Therapy Era (PMID37477937).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11095631/"
+  },
+  "37591896": {
+    "status": "done",
+    "filename": "Genomic analysis and clinical correlations of non-small cell lung cancer brain metastasis (PMID37591896).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10435547/"
+  },
+  "37643132": {
+    "status": "done",
+    "filename": "Assessing the Genomic Landscape of Cervical Cancers Clinical Opportunities and Therapeutic Targets (PMID37643132).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10644000/"
+  },
+  "37651310": {
+    "status": "done",
+    "filename": "Molecular Characterization of Endometrial Carcinomas in Black and White Patients Reveals Disparate Drivers with Therapeu (PMID37651310).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11149479/"
+  },
+  "37682528": {
+    "status": "done",
+    "filename": "Clinical and Genomic Landscape of FGFR3-Altered Urothelial Carcinoma and Treatment Outcomes with Erdafitinib A Real-Worl (PMID37682528).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11233068/"
+  },
+  "37699004": {
+    "status": "done",
+    "filename": "Clinical and molecular characteristics of early-onset vs average-onset esophagogastric cancer (PMID37699004).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10852615/"
+  },
+  "37730754": {
+    "status": "done",
+    "filename": "Sequential genomic analysis using a multisamplemultiplatform approach to better define rhabdomyosarcoma progression and  (PMID37730754).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10511463/"
+  },
+  "37769223": {
+    "status": "done",
+    "filename": "Targeted Molecular Profiling of Circulating Cell-Free DNA in Patients With Advanced Hepatocellular Carcinoma (PMID37769223).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10581608/"
+  },
+  "37910594": {
+    "status": "done",
+    "filename": "Tumor Volume Growth Rates and Doubling Times during Active Surveillance of IDH-mutant Low-Grade Glioma (PMID37910594).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10841595/"
+  },
+  "37980418": {
+    "status": "done",
+    "filename": "Comprehensive analysis reveals potential therapeutic targets and an integrated risk stratification model for solitary fi (PMID37980418).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10657378/"
+  },
+  "37990009": {
+    "status": "done",
+    "filename": "Genomic profiling of subcutaneous patient-derived xenografts reveals immune constraints on tumor evolution in childhood  (PMID37990009).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10663468/"
+  },
+  "38117484": {
+    "status": "done",
+    "filename": "The Epigenetic Evolution of Glioma Is Determined by the IDH1 Mutation Status and Treatment Regimen (PMID38117484).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10911804/"
+  },
+  "38147626": {
+    "status": "done",
+    "filename": "High-risk and silent clonal hematopoietic genotypes in patients with nonhematologic cancer (PMID38147626).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10875331/"
+  },
+  "38212634": {
+    "status": "done",
+    "filename": "A new genomic framework to categorize pediatric acute myeloid leukemia (PMID38212634).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10864188/"
+  },
+  "38335254": {
+    "status": "done",
+    "filename": "Chromoplexy Is a Frequent Early Clonal Event in EWSR1-Rearranged Round Cell Sarcomas That Can Be Detected Using Clinical (PMID38335254).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11648190/"
+  },
+  "38347189": {
+    "status": "done",
+    "filename": "Genomic and epigenomic basis of breast invasive lobular carcinomas lacking CDH1 genetic alterations (PMID38347189).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10861500/"
+  },
+  "38355797": {
+    "status": "no-pmc"
+  },
+  "38412093": {
+    "status": "done",
+    "filename": "The genomic and evolutionary landscapes of anaplastic thyroid carcinoma (PMID38412093).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11077417/"
+  },
+  "38488807": {
+    "status": "done",
+    "filename": "Developing Novel Genomic Risk Stratification Models in Soft Tissue and Uterine Leiomyosarcoma (PMID38488807).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11096044/"
+  },
+  "38488813": {
+    "status": "done",
+    "filename": "Integrative Molecular Analyses of the MD Anderson Prostate Cancer Patient-derived Xenograft MDA PCa PDX Series (PMID38488813).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11094415/"
+  },
+  "38497151": {
+    "status": "done",
+    "filename": "Validation of LymphGen classification on a 400-gene clinical next-generation sequencing panel in diffuse large B-cell ly (PMID38497151).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11215372/"
+  },
+  "38630790": {
+    "status": "done",
+    "filename": "Diffuse Pleural Mesotheliomas with Genomic Near-Haploidization A Newly Recognized Subset with Distinct Clinical Histolog (PMID38630790).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11216861/"
+  },
+  "38653864": {
+    "status": "done",
+    "filename": "Nivolumab for mismatch-repair-deficient or hypermutated gynecologic cancers a phase 2 trial with biomarker analyses (PMID38653864).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11108776/"
+  },
+  "38758238": {
+    "status": "done",
+    "filename": "Genome-wide loss of heterozygosity predicts aggressive treatment-refractory behavior in pituitary neuroendocrine tumors (PMID38758238).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11101347/"
+  },
+  "38864854": {
+    "status": "done",
+    "filename": "A Novel Approach to Quantify Heterogeneity of Intrahepatic Cholangiocarcinoma The Hidden-Genome Classifier (PMID38864854).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11326964/"
+  },
+  "38895302": {
+    "status": "done",
+    "filename": "Molecular effects of indoor tanning (PMID38895302).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11185634/"
+  },
+  "38922339": {
+    "status": "done",
+    "filename": "Tumor-Agnostic Genomic and Clinical Analysis of BRAF Fusions Identifies Actionable Targets (PMID38922339).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11371517/"
+  },
+  "38949888": {
+    "status": "done",
+    "filename": "Microsatellite Instability Tumor Mutational Burden and Response to Immune Checkpoint Blockade in Patients with Prostate  (PMID38949888).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11371520/"
+  },
+  "38995739": {
+    "status": "done",
+    "filename": "A Phase II Study Assessing Long-term Response to Ibrutinib Monotherapy in Recurrent or Refractory CNS Lymphoma (PMID38995739).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11398981/"
+  },
+  "39031567": {
+    "status": "done",
+    "filename": "ERBB2 mutations define a subgroup of endometrial carcinomas associated with high tumor mutational burden and the microsa (PMID39031567).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11459037/"
+  },
+  "39091884": {
+    "status": "done",
+    "filename": "Genetic evolution of keratinocytes to cutaneous squamous cell carcinoma (PMID39091884).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11291049/"
+  },
+  "39147831": {
+    "status": "done",
+    "filename": "DNA liquid biopsy-based prediction of cancer-associated venous thromboembolism (PMID39147831).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11405286/"
+  },
+  "39185963": {
+    "status": "done",
+    "filename": "Chromothripsis-Mediated Small Cell Lung Carcinoma (PMID39185963).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11726019/"
+  },
+  "39214094": {
+    "status": "done",
+    "filename": "Distinct clinical outcomes and biological features of specific KRAS mutants in human pancreatic cancer (PMID39214094).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11419252/"
+  },
+  "39289779": {
+    "status": "done",
+    "filename": "Real-world experience with circulating tumor DNA in cerebrospinal fluid from patients with central nervous system tumors (PMID39289779).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11406943/"
+  },
+  "39305899": {
+    "status": "done",
+    "filename": "The landscape of drug sensitivity and resistance in sarcoma (PMID39305899).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12318355/"
+  },
+  "39386479": {
+    "status": "done",
+    "filename": "Integrating spatial profiles and cancer genomics to identify immune-infiltrated mismatch repair proficient colorectal ca (PMID39386479).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11463659/"
+  },
+  "39386723": {
+    "status": "done",
+    "filename": "Multimodal Spatial Profiling Reveals Immune Suppression and Microenvironment Remodeling in Fallopian Tube Precursors to  (PMID39386723).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11463462/"
+  },
+  "39468210": {
+    "status": "no-pmc"
+  },
+  "39478232": {
+    "status": "done",
+    "filename": "Progressive plasticity during colorectal cancer metastasis (PMID39478232).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11754107/"
+  },
+  "39499893": {
+    "status": "done",
+    "filename": "DNA Damage Response Alterations Predict for Neoadjuvant Chemotherapy Sensitivity in Muscle-Invasive Bladder Cancer A Cor (PMID39499893).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12088707/"
+  },
+  "39506116": {
+    "status": "done",
+    "filename": "Automated real-world data integration improves cancer outcome prediction (PMID39506116).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11655358/"
+  },
+  "39550333": {
+    "status": "done",
+    "filename": "Molecular Heterogeneity and Immune Infiltration Drive Clinical Outcomes in Upper Tract Urothelial Carcinoma (PMID39550333).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12092068/"
+  },
+  "39642637": {
+    "status": "done",
+    "filename": "Atezolizumab monotherapy for metastatic urothelial carcinoma final analysis from the phase II IMvigor210 trial (PMID39642637).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11667038/"
+  },
+  "39746944": {
+    "status": "done",
+    "filename": "A deep multiple instance learning framework improves microsatellite instability detection from tumor next generation seq (PMID39746944).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11696176/"
+  },
+  "39753968": {
+    "status": "done",
+    "filename": "Clinicogenomic landscape of pancreatic adenocarcinoma identifies KRAS mutant dosage as prognostic of overall survival (PMID39753968).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11835752/"
+  },
+  "39975212": {
+    "status": "done",
+    "filename": "Somatic mutations distinguish melanocyte subpopulations in human skin (PMID39975212).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11839034/"
+  },
+  "40097403": {
+    "status": "done",
+    "filename": "Multi-omic analysis of SDHB-deficient pheochromocytomas and paragangliomas identifies metastasis and treatment-related m (PMID40097403).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11914184/"
+  },
+  "40100215": {
+    "status": "done",
+    "filename": "Clinical and Genomic Characterization of Secondary Rectal Cancer After Radiotherapy for Prostate Cancer (PMID40100215).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11920846/"
+  },
+  "40256659": {
+    "status": "done",
+    "filename": "Circulating Tumor DNA and Response to Cisplatin-based Chemotherapy in Patients with Metastatic Urothelial Carcinoma Enro (PMID40256659).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12008543/"
+  },
+  "40379787": {
+    "status": "done",
+    "filename": "APOBEC3 mutagenesis drives therapy resistance in breast cancer (PMID40379787).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12165862/"
+  },
+  "40511613": {
+    "status": "error",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12415951/"
+  },
+  "41758938": {
+    "status": "done",
+    "filename": "Single-cell protein activity analysis reveals aberrant myogenesis and IGF2-PI3K pathway dependencies in MYOD1-mutant rha (PMID41758938).md",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12947870/"
+  },
+  "41895280": {
+    "status": "no-pmc"
+  }
+}
